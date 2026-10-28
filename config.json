@@ -1,0 +1,45 @@
+{
+  "stocks": [
+    {"symbol": "NVDA",  "group": "chips",  "en": "NVIDIA",            "zh": "英伟达"},
+    {"symbol": "AMD",   "group": "chips",  "en": "AMD",               "zh": "AMD"},
+    {"symbol": "AVGO",  "group": "chips",  "en": "Broadcom",          "zh": "博通"},
+    {"symbol": "TSM",   "group": "chips",  "en": "TSMC",              "zh": "台积电"},
+    {"symbol": "ASML",  "group": "chips",  "en": "ASML",              "zh": "阿斯麦"},
+    {"symbol": "MU",    "group": "chips",  "en": "Micron",            "zh": "美光"},
+    {"symbol": "ARM",   "group": "chips",  "en": "Arm Holdings",      "zh": "Arm"},
+    {"symbol": "MRVL",  "group": "chips",  "en": "Marvell",           "zh": "迈威尔"},
+    {"symbol": "MSFT",  "group": "cloud",  "en": "Microsoft",         "zh": "微软"},
+    {"symbol": "GOOGL", "group": "cloud",  "en": "Alphabet",          "zh": "谷歌"},
+    {"symbol": "AMZN",  "group": "cloud",  "en": "Amazon",            "zh": "亚马逊"},
+    {"symbol": "META",  "group": "cloud",  "en": "Meta Platforms",    "zh": "Meta"},
+    {"symbol": "AAPL",  "group": "cloud",  "en": "Apple",             "zh": "苹果"},
+    {"symbol": "ORCL",  "group": "cloud",  "en": "Oracle",            "zh": "甲骨文"},
+    {"symbol": "PLTR",  "group": "software", "en": "Palantir",        "zh": "Palantir"},
+    {"symbol": "NOW",   "group": "software", "en": "ServiceNow",      "zh": "ServiceNow"},
+    {"symbol": "CRM",   "group": "software", "en": "Salesforce",      "zh": "Salesforce"},
+    {"symbol": "SNOW",  "group": "software", "en": "Snowflake",       "zh": "Snowflake"},
+    {"symbol": "ANET",  "group": "infra",  "en": "Arista Networks",   "zh": "Arista"},
+    {"symbol": "DELL",  "group": "infra",  "en": "Dell Technologies", "zh": "戴尔"},
+    {"symbol": "SMCI",  "group": "infra",  "en": "Super Micro",       "zh": "超微电脑"},
+    {"symbol": "VRT",   "group": "infra",  "en": "Vertiv",            "zh": "维谛"},
+    {"symbol": "CEG",   "group": "infra",  "en": "Constellation Energy", "zh": "Constellation 能源"}
+  ],
+  "groups": {
+    "chips":    {"en": "Chips & semis",        "zh": "芯片半导体"},
+    "cloud":    {"en": "Platforms & cloud",    "zh": "平台与云"},
+    "software": {"en": "AI software",          "zh": "AI 软件"},
+    "infra":    {"en": "Servers, network & power", "zh": "服务器/网络/电力"}
+  },
+  "etfs": [
+    {"symbol": "QQQ",  "en": "Nasdaq-100 (QQQ)",            "zh": "纳指100 (QQQ)"},
+    {"symbol": "SPY",  "en": "S&P 500 (SPY)",               "zh": "标普500 (SPY)"},
+    {"symbol": "SMH",  "en": "Semiconductors (SMH)",        "zh": "半导体 (SMH)"},
+    {"symbol": "SOXX", "en": "Semiconductors (SOXX)",       "zh": "半导体 (SOXX)"},
+    {"symbol": "IGV",  "en": "Software (IGV)",              "zh": "软件 (IGV)"},
+    {"symbol": "AIQ",  "en": "AI & technology (AIQ)",       "zh": "AI 与科技 (AIQ)"},
+    {"symbol": "BOTZ", "en": "Robotics & AI (BOTZ)",        "zh": "机器人与 AI (BOTZ)"}
+  ],
+  "benchmark": "QQQ",
+  "earnings_window_days": 75,
+  "recent_window_days": 21
+}
