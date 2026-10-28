@@ -9,7 +9,24 @@ A daily, automated radar for US AI stocks: when each company reports, what the m
 ## Latest
 
 <!-- RADAR:START -->
-_The first workflow run fills this section._
+AI basket (equal weight): **+2.3%** on the day, **+52.2%** YTD vs QQQ +17.4%.
+
+**Next earnings**
+
+| Date | Company | Timing | EPS consensus | Typical move |
+|---|---|---|---:|---:|
+| 2026-10-28 | GOOGL | after close | 2.94 | ±6.6% |
+| 2026-10-28 | MSFT | after close | 4.71 | ±8.1% |
+| 2026-10-29 | AMZN | after close | 2.01 | ±9.4% |
+| 2026-11-02 | AAPL | after close | 1.98 | ±3.4% |
+| 2026-11-02 | PLTR | after close | 0.33 | ±12.6% |
+| 2026-11-03 | AMD | after close | 1.68 | ±11.0% |
+| 2026-11-03 | ANET | after close | 0.99 | ±8.3% |
+| 2026-11-03 | SMCI | after close | 1.04 | ±18.6% |
+
+**Volume-based flow signals:** inflow AAPL, NOW; outflow NVDA, AVGO, TSM, ASML, MU, ARM, META, ORCL, SMCI, VRT, CEG.
+
+_Last updated 2026-10-28 04:48 UTC._
 <!-- RADAR:END -->
 
 ## What it covers

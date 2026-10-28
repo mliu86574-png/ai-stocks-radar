@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-28 04:48",
+ "sources": [
+  {
+   "source": "Yahoo Finance",
+   "item": "daily prices",
+   "ok": "ok",
+   "note": "30 ok"
+  },
+  {
+   "source": "Nasdaq.com",
+   "item": "earnings_date",
+   "ok": "ok",
+   "note": "23 fresh, 0 cached, 0 missing"
+  },
+  {
+   "source": "Nasdaq.com",
+   "item": "surprises",
+   "ok": "ok",
+   "note": "23 fresh, 0 cached, 0 missing"
+  },
+  {
+   "source": "Nasdaq.com",
+   "item": "institutional",
+   "ok": "ok",
+   "note": "23 fresh, 0 cached, 0 missing"
+  },
+  {
+   "source": "Nasdaq.com",
+   "item": "insider",
+   "ok": "ok",
+   "note": "23 fresh, 0 cached, 0 missing"
+  },
+  {
+   "source": "Nasdaq.com",
+   "item": "short",
+   "ok": "cached",
+   "note": "15 fresh, 0 cached, 8 missing"
+  },
+  {
+   "source": "Nasdaq.com",
+   "item": "summary",
+   "ok": "ok",
+   "note": "23 fresh, 0 cached, 0 missing"
+  },
+  {
+   "source": "Nasdaq.com",
+   "item": "ratings",
+   "ok": "ok",
+   "note": "23 fresh, 0 cached, 0 missing"
+  },
+  {
+   "source": "Nasdaq.com",
+   "item": "momentum",
+   "ok": "ok",
+   "note": "23 fresh, 0 cached, 0 missing"
+  },
+  {
+   "source": "Nasdaq.com",
+   "item": "earnings calendar",
+   "ok": "ok",
+   "note": "13 dates fresh, 0 from cache"
+  }
+ ]
+}
