@@ -26,7 +26,7 @@ AI basket (equal weight): **+2.3%** on the day, **+52.2%** YTD vs QQQ +17.4%.
 
 **Volume-based flow signals:** inflow AAPL, NOW; outflow NVDA, AVGO, TSM, ASML, MU, ARM, META, ORCL, SMCI, VRT, CEG.
 
-_Last updated 2026-10-28 13:45 UTC._
+_Last updated 2026-10-28 22:26 UTC._
 <!-- RADAR:END -->
 
 ## What it covers
