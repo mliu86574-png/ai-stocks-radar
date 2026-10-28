@@ -15,7 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 TODAY = pd.Timestamp("2026-10-28")
 
 
-def fake_prices(symbol):
+def fake_prices(symbol, asset="stocks"):
     seed = sum(map(ord, symbol))
     rng = np.random.default_rng(seed)
     idx = pd.bdate_range(end="2026-10-27", periods=520)
@@ -141,3 +141,10 @@ def test_build_survives_everything_down(repo):
         raise RuntimeError("down")
     build.build(repo, down, down, down, today=TODAY, pause=0)
     assert (repo / "docs" / "index.html").exists()
+
+
+def test_parse_nasdaq_history():
+    df = sources.parse_nasdaq_history({"tradesTable": {"rows": [
+        {"date": "10/27/2026", "close": "$217.94", "volume": "84,799,700", "open": "$218.31", "high": "$219.19", "low": "$215.53"},
+        {"date": "10/26/2026", "close": "$216.00", "volume": "90,829,290", "open": "$213.105", "high": "$217.75", "low": "$212.61"}]}})
+    assert list(df["close"]) == [216.0, 217.94] and df["volume"].iloc[-1] == 84799700

@@ -38,7 +38,7 @@ def _points(s: pd.Series, days: int | None = None, dp: int = 2) -> list:
     return [[d.strftime("%Y-%m-%d"), round(float(v), dp)] for d, v in s.items()]
 
 
-def build(root: Path = ROOT, get_prices: Callable = sources.yahoo_ohlcv,
+def build(root: Path = ROOT, get_prices: Callable = sources.ohlcv,
           get_nasdaq: Callable = sources.nasdaq_symbol, get_calendar: Callable = sources.nasdaq_calendar,
           today: pd.Timestamp | None = None, pause: float = 0.25) -> dict:
     cfg = json.loads((root / "config.json").read_text())
@@ -55,9 +55,10 @@ def build(root: Path = ROOT, get_prices: Callable = sources.yahoo_ohlcv,
     # ------------------------------------------------ prices
     prices: dict[str, pd.DataFrame] = {}
     failed = []
+    etf_syms = {e["symbol"] for e in etfs_cfg}
     for sym in symbols + [e["symbol"] for e in etfs_cfg]:
         try:
-            prices[sym] = get_prices(sym)
+            prices[sym] = get_prices(sym, "etf" if sym in etf_syms else "stocks")
         except Exception as err:
             _warn(f"prices {sym}: {err}")
             failed.append(sym)

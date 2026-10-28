@@ -25,20 +25,33 @@ NASDAQ_HEADERS = {"User-Agent": UA, "Accept": "application/json, text/plain, */*
                   "Referer": "https://www.nasdaq.com/"}
 
 
+_FAILS: dict[str, int] = {}
+MAX_HOST_FAILS = 4
+
+
 def get_json(url: str, params: dict | None = None, headers: dict | None = None,
-             retries: int = 3, pause: float = 3.0, timeout: int = 25):
+             retries: int = 2, pause: float = 2.0, timeout: int = 15):
+    """GET JSON with retries. After MAX_HOST_FAILS consecutive failures a host is
+    skipped for the rest of the run so a blocked provider cannot stall the build."""
     if params:
         url = f"{url}?{urllib.parse.urlencode(params)}"
+    host = urllib.parse.urlsplit(url).netloc
+    if _FAILS.get(host, 0) >= MAX_HOST_FAILS:
+        raise RuntimeError(f"skipped: {host} failed {MAX_HOST_FAILS} times in a row")
     last: Exception | None = None
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers=headers or {"User-Agent": UA, "Accept": "*/*"})
             with urllib.request.urlopen(req, timeout=timeout) as resp:
-                return json.loads(resp.read().decode("utf-8"))
+                out = json.loads(resp.read().decode("utf-8"))
+            _FAILS[host] = 0
+            return out
         except Exception as err:
             last = err
-            time.sleep(pause * (attempt + 1))
-    raise RuntimeError(f"GET failed after {retries} attempts: {url}") from last
+            if attempt + 1 < retries:
+                time.sleep(pause * (attempt + 1))
+    _FAILS[host] = _FAILS.get(host, 0) + 1
+    raise RuntimeError(f"GET failed after {retries} attempts: {url} ({last})") from last
 
 
 # ---------------------------------------------------------------- parsing helpers
@@ -101,6 +114,40 @@ def yahoo_ohlcv(symbol: str, rng: str = "2y") -> pd.DataFrame:
         except Exception as err:
             last = err
     raise RuntimeError(f"Yahoo unavailable for {symbol}") from last
+
+
+def parse_nasdaq_history(data: dict) -> pd.DataFrame:
+    rows = ((data.get("tradesTable") or {}).get("rows")) or []
+    recs = []
+    for r in rows:
+        d = parse_us_date(r.get("date"))
+        if not d:
+            continue
+        recs.append({"date": pd.Timestamp(d), "open": to_num(r.get("open")), "high": to_num(r.get("high")),
+                     "low": to_num(r.get("low")), "close": to_num(r.get("close")), "volume": to_num(r.get("volume"))})
+    if not recs:
+        raise ValueError("no history rows")
+    df = pd.DataFrame(recs).set_index("date").sort_index().astype("float64")
+    return df[~df.index.duplicated(keep="last")].dropna(subset=["close"])
+
+
+def nasdaq_ohlcv(symbol: str, asset: str = "stocks", years: int = 2) -> pd.DataFrame:
+    today = pd.Timestamp.now(tz="UTC").date()
+    start = today.replace(year=today.year - years)
+    return parse_nasdaq_history(nasdaq(f"/quote/{symbol}/historical",
+                                       {"assetclass": asset, "fromdate": start.isoformat(),
+                                        "todate": today.isoformat(), "limit": "9999"}))
+
+
+def ohlcv(symbol: str, asset: str = "stocks") -> pd.DataFrame:
+    """Yahoo first; Nasdaq.com history as a fallback."""
+    try:
+        return yahoo_ohlcv(symbol)
+    except Exception as err:
+        try:
+            return nasdaq_ohlcv(symbol, asset)
+        except Exception as err2:
+            raise RuntimeError(f"no prices for {symbol}: {err}; {err2}") from err2
 
 
 # ---------------------------------------------------------------- Nasdaq
