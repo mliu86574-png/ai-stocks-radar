@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 04:48",
+ "updated": "2026-10-28 13:45",
  "sources": [
   {
    "source": "Yahoo Finance",
@@ -59,7 +59,7 @@
    "source": "Nasdaq.com",
    "item": "earnings calendar",
    "ok": "ok",
-   "note": "13 dates fresh, 0 from cache"
+   "note": "12 dates fresh, 0 from cache"
   }
  ]
 }

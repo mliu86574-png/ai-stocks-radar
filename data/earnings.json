@@ -1,107 +1,5 @@
 [
  {
-  "symbol": "GOOGL",
-  "next_date": "2026-10-28",
-  "days": 0,
-  "estimated": false,
-  "time": "after",
-  "eps_forecast": 2.94,
-  "n_ests": 14.0,
-  "last_year_eps": 2.87,
-  "fiscal_q": "Sep/2026",
-  "avg_move": 6.556645681082946,
-  "beats": 4,
-  "n_hist": 4,
-  "history": [
-   {
-    "quarter": "Jun 2026",
-    "date": "2026-07-22",
-    "eps": 9.11,
-    "consensus": 2.88,
-    "surprise_pct": 216.32,
-    "reaction": -8.486245138988902
-   },
-   {
-    "quarter": "Mar 2026",
-    "date": "2026-04-29",
-    "eps": 5.11,
-    "consensus": 2.64,
-    "surprise_pct": 93.56,
-    "reaction": 10.012007547601364
-   },
-   {
-    "quarter": "Dec 2025",
-    "date": "2026-02-04",
-    "eps": 2.82,
-    "consensus": 2.57,
-    "surprise_pct": 9.73,
-    "reaction": -2.490359424214761
-   },
-   {
-    "quarter": "Sep 2025",
-    "date": "2025-10-29",
-    "eps": 2.87,
-    "consensus": 2.26,
-    "surprise_pct": 26.99,
-    "reaction": 5.2379706135267545
-   }
-  ],
-  "recent": null,
-  "eps_rev_1m_pct": 0.3412969283276279,
-  "eps_qtr_mean": 2.94
- },
- {
-  "symbol": "MSFT",
-  "next_date": "2026-10-28",
-  "days": 0,
-  "estimated": false,
-  "time": "after",
-  "eps_forecast": 4.71,
-  "n_ests": 14.0,
-  "last_year_eps": 4.13,
-  "fiscal_q": "Sep/2026",
-  "avg_move": 8.122165230098311,
-  "beats": 4,
-  "n_hist": 4,
-  "history": [
-   {
-    "quarter": "Jun 2026",
-    "date": "2026-07-29",
-    "eps": 4.74,
-    "consensus": 4.21,
-    "surprise_pct": 12.59,
-    "reaction": 14.681581288928424
-   },
-   {
-    "quarter": "Mar 2026",
-    "date": "2026-04-29",
-    "eps": 4.27,
-    "consensus": 4.07,
-    "surprise_pct": 4.91,
-    "reaction": -5.001747233546894
-   },
-   {
-    "quarter": "Dec 2025",
-    "date": "2026-01-28",
-    "eps": 4.14,
-    "consensus": 3.88,
-    "surprise_pct": 6.7,
-    "reaction": -9.79649590078655
-   },
-   {
-    "quarter": "Sep 2025",
-    "date": "2025-10-29",
-    "eps": 4.13,
-    "consensus": 3.65,
-    "surprise_pct": 13.15,
-    "reaction": -3.008836497131373
-   }
-  ],
-  "recent": null,
-  "eps_rev_1m_pct": 0.21276595744681437,
-  "eps_qtr_mean": 4.71
- },
- {
   "symbol": "AMZN",
   "next_date": "2026-10-29",
   "days": 1,
@@ -771,7 +669,7 @@
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 1.57,
-  "n_ests": 9.0,
+  "n_ests": 10.0,
   "last_year_eps": 1.95,
   "fiscal_q": "Nov/2026",
   "avg_move": 8.859002192527356,
@@ -971,6 +869,52 @@
   "eps_qtr_mean": 17.22
  },
  {
+  "symbol": "GOOGL",
+  "next_date": null,
+  "days": null,
+  "estimated": false,
+  "avg_move": 6.556645681082946,
+  "beats": 4,
+  "n_hist": 4,
+  "history": [
+   {
+    "quarter": "Jun 2026",
+    "date": "2026-07-22",
+    "eps": 9.11,
+    "consensus": 2.88,
+    "surprise_pct": 216.32,
+    "reaction": -8.486245138988902
+   },
+   {
+    "quarter": "Mar 2026",
+    "date": "2026-04-29",
+    "eps": 5.11,
+    "consensus": 2.64,
+    "surprise_pct": 93.56,
+    "reaction": 10.012007547601364
+   },
+   {
+    "quarter": "Dec 2025",
+    "date": "2026-02-04",
+    "eps": 2.82,
+    "consensus": 2.57,
+    "surprise_pct": 9.73,
+    "reaction": -2.490359424214761
+   },
+   {
+    "quarter": "Sep 2025",
+    "date": "2025-10-29",
+    "eps": 2.87,
+    "consensus": 2.26,
+    "surprise_pct": 26.99,
+    "reaction": 5.2379706135267545
+   }
+  ],
+  "recent": null,
+  "eps_rev_1m_pct": 0.3412969283276279,
+  "eps_qtr_mean": 2.94
+ },
+ {
   "symbol": "META",
   "next_date": null,
   "days": null,
@@ -1022,6 +966,52 @@
   },
   "eps_rev_1m_pct": 0.12315270935963074,
   "eps_qtr_mean": 8.13
+ },
+ {
+  "symbol": "MSFT",
+  "next_date": null,
+  "days": null,
+  "estimated": false,
+  "avg_move": 8.122165230098311,
+  "beats": 4,
+  "n_hist": 4,
+  "history": [
+   {
+    "quarter": "Jun 2026",
+    "date": "2026-07-29",
+    "eps": 4.74,
+    "consensus": 4.21,
+    "surprise_pct": 12.59,
+    "reaction": 14.681581288928424
+   },
+   {
+    "quarter": "Mar 2026",
+    "date": "2026-04-29",
+    "eps": 4.27,
+    "consensus": 4.07,
+    "surprise_pct": 4.91,
+    "reaction": -5.001747233546894
+   },
+   {
+    "quarter": "Dec 2025",
+    "date": "2026-01-28",
+    "eps": 4.14,
+    "consensus": 3.88,
+    "surprise_pct": 6.7,
+    "reaction": -9.79649590078655
+   },
+   {
+    "quarter": "Sep 2025",
+    "date": "2025-10-29",
+    "eps": 4.13,
+    "consensus": 3.65,
+    "surprise_pct": 13.15,
+    "reaction": -3.008836497131373
+   }
+  ],
+  "recent": null,
+  "eps_rev_1m_pct": 0.21276595744681437,
+  "eps_qtr_mean": 4.71
  },
  {
   "symbol": "NOW",
