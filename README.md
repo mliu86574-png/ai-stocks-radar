@@ -9,7 +9,7 @@ A daily, automated radar for US AI stocks: when each company reports, what the m
 ## Latest
 
 <!-- RADAR:START -->
-AI basket (equal weight): **-5.2%** on the day, **+41.7%** YTD vs QQQ +12.4%.
+AI basket (equal weight): **-4.6%** on the day, **+25.1%** YTD vs QQQ +12.4%.
 
 **Next earnings**
 
@@ -18,15 +18,15 @@ AI basket (equal weight): **-5.2%** on the day, **+41.7%** YTD vs QQQ +12.4%.
 | 2026-11-03 | AMD | after close | 1.68 | ±11.0% |
 | 2026-11-03 | ANET | after close | 0.99 | ±8.3% |
 | 2026-11-03 | SMCI | after close | 1.04 | ±18.6% |
-| 2026-11-04 | ARM | after close | 0.22 | ±2.8% |
+| 2026-11-04 | ARM | after close | 0.22 | – |
 | 2026-11-09 | CEG | before open | 3.90 | ±4.7% |
 | 2026-11-17 | NVDA | after close | 2.49 | ±3.0% |
 | 2026-11-24 | DELL | TBC | 6.41 | ±17.6% |
-| 2026-12-01 | MRVL | TBC | 0.79 | ±9.5% |
+| 2026-12-01 | MRVL | TBC | 0.79 | – |
 
-**Volume-based flow signals:** inflow none; outflow NVDA, TSM, ASML, MU, ARM, MRVL, GOOGL, META, NOW, SNOW, ANET, DELL, SMCI, CEG.
+**Volume-based flow signals:** inflow none; outflow NVDA, GOOGL, META, NOW, SNOW, ANET, DELL, SMCI, CEG.
 
-_Last updated 2026-11-02 13:56 UTC._
+_Last updated 2026-11-02 22:31 UTC._
 <!-- RADAR:END -->
 
 ## What it covers

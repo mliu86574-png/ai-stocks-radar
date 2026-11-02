@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-02 13:56",
+ "updated": "2026-11-02 22:31",
  "sources": [
   {
    "source": "Yahoo Finance",
    "item": "daily prices",
-   "ok": "ok",
-   "note": "30 ok"
+   "ok": "partial",
+   "note": "25 ok; failed: TSM, ASML, MU, ARM, MRVL"
   },
   {
    "source": "Nasdaq.com",
