@@ -42,14 +42,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 79.68,
-    "inst_shares": 19203606822.0,
-    "inc_holders": 3370.0,
-    "dec_holders": 2577.0,
-    "new_holders": 267.0,
-    "soldout_holders": 121.0,
-    "net_shares": 406927163.0,
-    "net_pct": 2.119014239209568
+    "inst_pct": 79.66,
+    "inst_shares": 19196916895.0,
+    "inc_holders": 3386.0,
+    "dec_holders": 2565.0,
+    "new_holders": 270.0,
+    "soldout_holders": 122.0,
+    "net_shares": 388347609.0,
+    "net_pct": 2.022968641913267
    },
    "fetched": "2026-11-04"
   },
@@ -74,7 +74,7 @@
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 4923389000000.0,
+    "market_cap": 4823133000000.0,
     "target_1y": 315.0
    },
    "fetched": "2026-11-04"
@@ -136,14 +136,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 82.63,
-    "inst_shares": 1348927585.0,
-    "inc_holders": 2195.0,
-    "dec_holders": 1772.0,
-    "new_holders": 637.0,
-    "soldout_holders": 130.0,
-    "net_shares": 70287569.0,
-    "net_pct": 5.2106258172487445
+    "inst_pct": 82.53,
+    "inst_shares": 1347342951.0,
+    "inc_holders": 2190.0,
+    "dec_holders": 1778.0,
+    "new_holders": 625.0,
+    "soldout_holders": 132.0,
+    "net_shares": 69068667.0,
+    "net_pct": 5.12628703395354
    },
    "fetched": "2026-11-04"
   },
@@ -168,7 +168,7 @@
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 789301682807.0,
+    "market_cap": 797921151029.0,
     "target_1y": 650.0
    },
    "fetched": "2026-11-04"
@@ -181,8 +181,8 @@
   },
   "momentum": {
    "value": {
-    "eps_qtr_mean": 2.29,
-    "eps_rev_1m_pct": -0.43478260869563856
+    "eps_qtr_mean": 1.68,
+    "eps_rev_1m_pct": 1.2048192771084265
    },
    "fetched": "2026-11-04"
   }
@@ -230,14 +230,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 88.74,
-    "inst_shares": 4236067494.0,
-    "inc_holders": 2692.0,
-    "dec_holders": 2116.0,
-    "new_holders": 255.0,
-    "soldout_holders": 175.0,
-    "net_shares": 54159239.0,
-    "net_pct": 1.2785263472952586
+    "inst_pct": 88.73,
+    "inst_shares": 4235615803.0,
+    "inc_holders": 2696.0,
+    "dec_holders": 2119.0,
+    "new_holders": 256.0,
+    "soldout_holders": 177.0,
+    "net_shares": 50088709.0,
+    "net_pct": 1.1825602540372804
    },
    "fetched": "2026-11-04"
   },
@@ -262,7 +262,7 @@
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 1558924305013.0,
+    "market_cap": 1553721048460.0,
     "target_1y": 530.0
    },
    "fetched": "2026-11-04"
@@ -325,29 +325,29 @@
   "institutional": {
    "value": {
     "inst_pct": 3.0,
-    "inst_shares": 778574291.0,
-    "inc_holders": 1867.0,
-    "dec_holders": 1546.0,
-    "new_holders": 313.0,
+    "inst_shares": 777122893.0,
+    "inc_holders": 1861.0,
+    "dec_holders": 1553.0,
+    "new_holders": 307.0,
     "soldout_holders": 124.0,
-    "net_shares": 14369195.0,
-    "net_pct": 1.8455778936065588
+    "net_shares": 12716933.0,
+    "net_pct": 1.6364120931900021
    },
    "fetched": "2026-11-04"
   },
   "insider": {
    "value": {
-    "buys_3m": 114.0,
+    "buys_3m": 115.0,
     "sells_3m": 0.0,
-    "net_shares_3m": 499822.0,
-    "net_shares_12m": -666344.0
+    "net_shares_3m": 500822.0,
+    "net_shares_12m": -665344.0
    },
    "fetched": "2026-11-04"
   },
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 2073322450840.0,
+    "market_cap": 2049654873012.0,
     "target_1y": 537.0
    },
    "fetched": "2026-11-04"
@@ -360,8 +360,8 @@
   },
   "momentum": {
    "value": {
-    "eps_qtr_mean": 5.22,
-    "eps_rev_1m_pct": 11.300639658848599
+    "eps_qtr_mean": 4.45,
+    "eps_rev_1m_pct": 0.0
    },
    "fetched": "2026-11-04"
   }
@@ -409,14 +409,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 19.72,
-    "inst_shares": 76546938.0,
-    "inc_holders": 1338.0,
-    "dec_holders": 1020.0,
-    "new_holders": 313.0,
-    "soldout_holders": 136.0,
-    "net_shares": 2891925.0,
-    "net_pct": 3.7779760700552125
+    "inst_pct": 19.71,
+    "inst_shares": 76506952.0,
+    "inc_holders": 1336.0,
+    "dec_holders": 1018.0,
+    "new_holders": 311.0,
+    "soldout_holders": 131.0,
+    "net_shares": 2797757.0,
+    "net_pct": 3.656866372091258
    },
    "fetched": "2026-11-04"
   },
@@ -441,7 +441,7 @@
   "summary": {
    "value": {
     "industry": "Industrial Machinery/Components",
-    "market_cap": 582882551486.0,
+    "market_cap": 576700452140.0,
     "target_1y": 2225.0
    },
    "fetched": "2026-11-04"
@@ -503,14 +503,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 88.08,
-    "inst_shares": 996591064.0,
-    "inc_holders": 2380.0,
+    "inst_pct": 87.88,
+    "inst_shares": 994250921.0,
+    "inc_holders": 2384.0,
     "dec_holders": 1615.0,
-    "new_holders": 667.0,
-    "soldout_holders": 153.0,
-    "net_shares": 1415494.0,
-    "net_pct": 0.14203358339564642
+    "new_holders": 651.0,
+    "soldout_holders": 152.0,
+    "net_shares": -1284837.0,
+    "net_pct": -0.1292266341285089
    },
    "fetched": "2026-11-04"
   },
@@ -535,7 +535,7 @@
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 943380674166.0,
+    "market_cap": 899741680879.0,
     "target_1y": 1500.0
    },
    "fetched": "2026-11-04"
@@ -597,14 +597,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 9.5,
-    "inst_shares": 101103326.0,
-    "inc_holders": 533.0,
-    "dec_holders": 414.0,
-    "new_holders": 221.0,
-    "soldout_holders": 114.0,
-    "net_shares": 18768222.0,
-    "net_pct": 18.563407102947334
+    "inst_pct": 9.49,
+    "inst_shares": 101028722.0,
+    "inc_holders": 529.0,
+    "dec_holders": 422.0,
+    "new_holders": 216.0,
+    "soldout_holders": 121.0,
+    "net_shares": 18422604.0,
+    "net_pct": 18.235016374848335
    },
    "fetched": "2026-11-04"
   },
@@ -629,7 +629,7 @@
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 213343078026.0,
+    "market_cap": 204085797334.0,
     "target_1y": 280.0
    },
    "fetched": "2026-11-04"
@@ -691,14 +691,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 89.09,
-    "inst_shares": 781218704.0,
-    "inc_holders": 1428.0,
-    "dec_holders": 887.0,
-    "new_holders": 543.0,
-    "soldout_holders": 169.0,
-    "net_shares": -23091051.0,
-    "net_pct": -2.9557729329532285
+    "inst_pct": 88.91,
+    "inst_shares": 779694869.0,
+    "inc_holders": 1435.0,
+    "dec_holders": 888.0,
+    "new_holders": 536.0,
+    "soldout_holders": 167.0,
+    "net_shares": -23280035.0,
+    "net_pct": -2.9857878928789003
    },
    "fetched": "2026-11-04"
   },
@@ -723,7 +723,7 @@
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 145030491000.0,
+    "market_cap": 140128620000.0,
     "target_1y": 300.0
    },
    "fetched": "2026-11-04"
@@ -785,14 +785,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 84.33,
-    "inst_shares": 6262713315.0,
-    "inc_holders": 3359.0,
-    "dec_holders": 2873.0,
-    "new_holders": 244.0,
-    "soldout_holders": 111.0,
-    "net_shares": 96708182.0,
-    "net_pct": 1.5441898285264237
+    "inst_pct": 84.28,
+    "inst_shares": 6258907230.0,
+    "inc_holders": 3370.0,
+    "dec_holders": 2872.0,
+    "new_holders": 253.0,
+    "soldout_holders": 108.0,
+    "net_shares": 90654605.0,
+    "net_pct": 1.4484094693955067
    },
    "fetched": "2026-11-04"
   },
@@ -817,7 +817,7 @@
   "summary": {
    "value": {
     "industry": "Computer Software: Prepackaged Software",
-    "market_cap": 3976430134814.0,
+    "market_cap": 4127478932002.0,
     "target_1y": 630.0
    },
    "fetched": "2026-11-04"
@@ -880,13 +880,13 @@
   "institutional": {
    "value": {
     "inst_pct": 89.61,
-    "inst_shares": 5258354046.0,
-    "inc_holders": 2845.0,
-    "dec_holders": 2734.0,
-    "new_holders": 252.0,
-    "soldout_holders": 115.0,
-    "net_shares": 94004069.0,
-    "net_pct": 1.787709008896203
+    "inst_shares": 5258418746.0,
+    "inc_holders": 2847.0,
+    "dec_holders": 2731.0,
+    "new_holders": 249.0,
+    "soldout_holders": 118.0,
+    "net_shares": 92531931.0,
+    "net_pct": 1.7596911822662973
    },
    "fetched": "2026-11-04"
   },
@@ -911,7 +911,7 @@
   "summary": {
    "value": {
     "industry": "Computer Software: Programming, Data Processing",
-    "market_cap": 3485103120000.0,
+    "market_cap": 3552105420000.0,
     "target_1y": 400.0
    },
    "fetched": "2026-11-04"
@@ -973,14 +973,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 75.62,
-    "inst_shares": 8176488235.0,
-    "inc_holders": 3381.0,
+    "inst_pct": 75.63,
+    "inst_shares": 8178379838.0,
+    "inc_holders": 3387.0,
     "dec_holders": 2587.0,
-    "new_holders": 266.0,
+    "new_holders": 263.0,
     "soldout_holders": 87.0,
-    "net_shares": 229401276.0,
-    "net_pct": 2.8056210613504295
+    "net_shares": 224792486.0,
+    "net_pct": 2.7486188029018273
    },
    "fetched": "2026-11-04"
   },
@@ -1005,7 +1005,7 @@
   "summary": {
    "value": {
     "industry": "Catalog/Specialty Distribution",
-    "market_cap": 2810413581639.0,
+    "market_cap": 2876619183545.0,
     "target_1y": 330.0
    },
    "fetched": "2026-11-04"
@@ -1068,22 +1068,22 @@
   "institutional": {
    "value": {
     "inst_pct": 86.73,
-    "inst_shares": 1920544497.0,
-    "inc_holders": 2789.0,
+    "inst_shares": 1920551007.0,
+    "inc_holders": 2796.0,
     "dec_holders": 2298.0,
-    "new_holders": 304.0,
-    "soldout_holders": 179.0,
-    "net_shares": 35224801.0,
-    "net_pct": 1.8341049142585941
+    "new_holders": 307.0,
+    "soldout_holders": 178.0,
+    "net_shares": 33574654.0,
+    "net_pct": 1.7481781987371086
    },
    "fetched": "2026-11-04"
   },
   "insider": {
    "value": {
     "buys_3m": 2.0,
-    "sells_3m": 37.0,
-    "net_shares_3m": -166512.0,
-    "net_shares_12m": 108091.0
+    "sells_3m": 38.0,
+    "net_shares_3m": -187463.0,
+    "net_shares_12m": 87140.0
    },
    "fetched": "2026-11-04"
   },
@@ -1099,7 +1099,7 @@
   "summary": {
    "value": {
     "industry": "Computer Software: Programming, Data Processing",
-    "market_cap": 1608233621912.0,
+    "market_cap": 1610431989390.0,
     "target_1y": 850.0
    },
    "fetched": "2026-11-04"
@@ -1162,13 +1162,13 @@
   "institutional": {
    "value": {
     "inst_pct": 76.58,
-    "inst_shares": 11176533880.0,
-    "inc_holders": 2771.0,
-    "dec_holders": 3286.0,
-    "new_holders": 185.0,
-    "soldout_holders": 96.0,
-    "net_shares": 115535734.0,
-    "net_pct": 1.0337349239082698
+    "inst_shares": 11176818253.0,
+    "inc_holders": 2767.0,
+    "dec_holders": 3292.0,
+    "new_holders": 183.0,
+    "soldout_holders": 98.0,
+    "net_shares": 109403581.0,
+    "net_pct": 0.9788436970479921
    },
    "fetched": "2026-11-04"
   },
@@ -1193,7 +1193,7 @@
   "summary": {
    "value": {
     "industry": "Computer Manufacturing",
-    "market_cap": 4947427020000.0,
+    "market_cap": 5100811851800.0,
     "target_1y": 350.0
    },
    "fetched": "2026-11-04"
@@ -1255,14 +1255,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 48.87,
-    "inst_shares": 1477743423.0,
-    "inc_holders": 1754.0,
-    "dec_holders": 1713.0,
-    "new_holders": 219.0,
-    "soldout_holders": 231.0,
-    "net_shares": 88328572.0,
-    "net_pct": 5.97726037045607
+    "inst_pct": 48.88,
+    "inst_shares": 1478061193.0,
+    "inc_holders": 1753.0,
+    "dec_holders": 1720.0,
+    "new_holders": 218.0,
+    "soldout_holders": 234.0,
+    "net_shares": 87506787.0,
+    "net_pct": 5.920376464413405
    },
    "fetched": "2026-11-04"
   },
@@ -1278,7 +1278,7 @@
   "summary": {
    "value": {
     "industry": "Computer Software: Prepackaged Software",
-    "market_cap": 368144695978.0,
+    "market_cap": 374247804720.0,
     "target_1y": 225.0
    },
    "fetched": "2026-11-04"
@@ -1340,14 +1340,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 72.88,
-    "inst_shares": 1676868116.0,
-    "inc_holders": 1768.0,
-    "dec_holders": 1353.0,
-    "new_holders": 408.0,
-    "soldout_holders": 219.0,
-    "net_shares": 80166061.0,
-    "net_pct": 4.780701608855685
+    "inst_pct": 72.87,
+    "inst_shares": 1676494501.0,
+    "inc_holders": 1786.0,
+    "dec_holders": 1342.0,
+    "new_holders": 411.0,
+    "soldout_holders": 216.0,
+    "net_shares": 78777307.0,
+    "net_pct": 4.69893023526237
    },
    "fetched": "2026-11-04"
   },
@@ -1372,7 +1372,7 @@
   "summary": {
    "value": {
     "industry": "Computer Software: Prepackaged Software",
-    "market_cap": 400134068698.0,
+    "market_cap": 412432582516.0,
     "target_1y": 235.0
    },
    "fetched": "2026-11-04"
@@ -1434,14 +1434,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 92.35,
-    "inst_shares": 958577423.0,
-    "inc_holders": 1355.0,
-    "dec_holders": 1102.0,
-    "new_holders": 356.0,
-    "soldout_holders": 222.0,
-    "net_shares": -26943936.0,
-    "net_pct": -2.810825224286552
+    "inst_pct": 92.45,
+    "inst_shares": 959637204.0,
+    "inc_holders": 1370.0,
+    "dec_holders": 1094.0,
+    "new_holders": 358.0,
+    "soldout_holders": 218.0,
+    "net_shares": -27086761.0,
+    "net_pct": -2.822604301614801
    },
    "fetched": "2026-11-04"
   },
@@ -1457,7 +1457,7 @@
   "summary": {
    "value": {
     "industry": "Computer Software: Prepackaged Software",
-    "market_cap": 115996500000.0,
+    "market_cap": 112861740000.0,
     "target_1y": 160.0
    },
    "fetched": "2026-11-04"
@@ -1519,14 +1519,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 96.26,
-    "inst_shares": 792191781.0,
-    "inc_holders": 1208.0,
-    "dec_holders": 1547.0,
-    "new_holders": 309.0,
-    "soldout_holders": 254.0,
-    "net_shares": -48442537.0,
-    "net_pct": -6.1150012107989795
+    "inst_pct": 96.41,
+    "inst_shares": 793472841.0,
+    "inc_holders": 1210.0,
+    "dec_holders": 1546.0,
+    "new_holders": 311.0,
+    "soldout_holders": 252.0,
+    "net_shares": -48237700.0,
+    "net_pct": -6.0793133056963695
    },
    "fetched": "2026-11-04"
   },
@@ -1542,7 +1542,7 @@
   "summary": {
    "value": {
     "industry": "Computer Software: Prepackaged Software",
-    "market_cap": 188154260000.0,
+    "market_cap": 186952680000.0,
     "target_1y": 289.5
    },
    "fetched": "2026-11-04"
@@ -1604,14 +1604,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 88.09,
-    "inst_shares": 310775472.0,
-    "inc_holders": 921.0,
-    "dec_holders": 641.0,
-    "new_holders": 346.0,
-    "soldout_holders": 130.0,
-    "net_shares": 33063215.0,
-    "net_pct": 10.638939677967892
+    "inst_pct": 87.99,
+    "inst_shares": 310437338.0,
+    "inc_holders": 919.0,
+    "dec_holders": 643.0,
+    "new_holders": 343.0,
+    "soldout_holders": 129.0,
+    "net_shares": 32766813.0,
+    "net_pct": 10.555048954839318
    },
    "fetched": "2026-11-04"
   },
@@ -1620,14 +1620,14 @@
     "buys_3m": 0.0,
     "sells_3m": 54.0,
     "net_shares_3m": -1778192.0,
-    "net_shares_12m": -6276490.0
+    "net_shares_12m": -6286490.0
    },
    "fetched": "2026-11-04"
   },
   "summary": {
    "value": {
     "industry": "Computer Software: Prepackaged Software",
-    "market_cap": 101151288000.0,
+    "market_cap": 102527208000.0,
     "target_1y": 447.0
    },
    "fetched": "2026-11-04"
@@ -1689,14 +1689,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 79.87,
-    "inst_shares": 1007280636.0,
-    "inc_holders": 1332.0,
-    "dec_holders": 995.0,
-    "new_holders": 338.0,
-    "soldout_holders": 130.0,
-    "net_shares": 28986457.0,
-    "net_pct": 2.877694255605644
+    "inst_pct": 79.86,
+    "inst_shares": 1007208790.0,
+    "inc_holders": 1331.0,
+    "dec_holders": 1001.0,
+    "new_holders": 336.0,
+    "soldout_holders": 133.0,
+    "net_shares": 27856048.0,
+    "net_pct": 2.7656676824673063
    },
    "fetched": "2026-11-04"
   },
@@ -1712,7 +1712,7 @@
   "summary": {
    "value": {
     "industry": "Computer Communications Equipment",
-    "market_cap": 222543089140.0,
+    "market_cap": 225115987422.0,
     "target_1y": 250.0
    },
    "fetched": "2026-11-04"
@@ -1774,14 +1774,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 85.39,
-    "inst_shares": 269345132.0,
-    "inc_holders": 1220.0,
-    "dec_holders": 979.0,
+    "inst_pct": 85.45,
+    "inst_shares": 269549511.0,
+    "inc_holders": 1231.0,
+    "dec_holders": 973.0,
     "new_holders": 483.0,
-    "soldout_holders": 120.0,
-    "net_shares": -12105750.0,
-    "net_pct": -4.494512267628434
+    "soldout_holders": 118.0,
+    "net_shares": -11797719.0,
+    "net_pct": -4.3768281961379625
    },
    "fetched": "2026-11-04"
   },
@@ -1797,7 +1797,7 @@
   "summary": {
    "value": {
     "industry": "Computer Manufacturing",
-    "market_cap": 245430079628.0,
+    "market_cap": 236147213478.0,
     "target_1y": 600.0
    },
    "fetched": "2026-11-04"
@@ -1859,14 +1859,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 78.31,
-    "inst_shares": 514470104.0,
+    "inst_pct": 78.14,
+    "inst_shares": 513382367.0,
     "inc_holders": 520.0,
-    "dec_holders": 306.0,
-    "new_holders": 180.0,
+    "dec_holders": 307.0,
+    "new_holders": 177.0,
     "soldout_holders": 81.0,
-    "net_shares": 105615635.0,
-    "net_pct": 20.529013091108595
+    "net_shares": 104515602.0,
+    "net_pct": 20.358237586294038
    },
    "fetched": "2026-11-04"
   },
@@ -1891,7 +1891,7 @@
   "summary": {
    "value": {
     "industry": "Computer Manufacturing",
-    "market_cap": 20563016519.0,
+    "market_cap": 19446175366.0,
     "target_1y": 44.0
    },
    "fetched": "2026-11-04"
@@ -1904,8 +1904,8 @@
   },
   "momentum": {
    "value": {
-    "eps_qtr_mean": 0.93,
-    "eps_rev_1m_pct": 5.681818181818188
+    "eps_qtr_mean": 1.04,
+    "eps_rev_1m_pct": 10.63829787234043
    },
    "fetched": "2026-11-04"
   }
@@ -1953,14 +1953,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 92.15,
-    "inst_shares": 354825649.0,
-    "inc_holders": 1141.0,
-    "dec_holders": 937.0,
-    "new_holders": 271.0,
-    "soldout_holders": 186.0,
-    "net_shares": -5250798.0,
-    "net_pct": -1.4798248139045889
+    "inst_pct": 91.91,
+    "inst_shares": 353903650.0,
+    "inc_holders": 1147.0,
+    "dec_holders": 934.0,
+    "new_holders": 269.0,
+    "soldout_holders": 187.0,
+    "net_shares": -6210806.0,
+    "net_pct": -1.7549426235078391
    },
    "fetched": "2026-11-04"
   },
@@ -1976,7 +1976,7 @@
   "summary": {
    "value": {
     "industry": "Industrial Machinery/Components",
-    "market_cap": 84482256367.0,
+    "market_cap": 79156870745.0,
     "target_1y": 330.0
    },
    "fetched": "2026-11-04"
@@ -2038,14 +2038,14 @@
   },
   "institutional": {
    "value": {
-    "inst_pct": 92.07,
-    "inst_shares": 326199481.0,
-    "inc_holders": 1094.0,
-    "dec_holders": 783.0,
-    "new_holders": 204.0,
-    "soldout_holders": 166.0,
-    "net_shares": -5720475.0,
-    "net_pct": -1.7536738508789964
+    "inst_pct": 92.08,
+    "inst_shares": 326229507.0,
+    "inc_holders": 1095.0,
+    "dec_holders": 780.0,
+    "new_holders": 202.0,
+    "soldout_holders": 162.0,
+    "net_shares": -6282871.0,
+    "net_pct": -1.9259051879694007
    },
    "fetched": "2026-11-04"
   },
@@ -2070,7 +2070,7 @@
   "summary": {
    "value": {
     "industry": "Electric Utilities: Central",
-    "market_cap": 88133960526.0,
+    "market_cap": 87060409168.0,
     "target_1y": 344.0
    },
    "fetched": "2026-11-04"
@@ -5530,18 +5530,18 @@
     "last_year_eps": 2.18,
     "fiscal_q": "Sep/2026"
    },
-   "BEKE": {
-    "time": "tbd",
-    "eps_forecast": 0.21,
-    "n_ests": 2.0,
-    "last_year_eps": 0.1,
-    "fiscal_q": "Sep/2026"
-   },
    "NRG": {
     "time": "pre",
     "eps_forecast": 3.44,
     "n_ests": 3.0,
     "last_year_eps": 2.75,
+    "fiscal_q": "Sep/2026"
+   },
+   "BEKE": {
+    "time": "tbd",
+    "eps_forecast": 0.21,
+    "n_ests": 2.0,
+    "last_year_eps": 0.1,
     "fiscal_q": "Sep/2026"
    },
    "KSPI": {
@@ -5600,18 +5600,18 @@
     "last_year_eps": 0.19,
     "fiscal_q": "Sep/2026"
    },
-   "AMG": {
-    "time": "pre",
-    "eps_forecast": 8.7,
-    "n_ests": 6.0,
-    "last_year_eps": 6.1,
-    "fiscal_q": "Sep/2026"
-   },
    "ONTO": {
     "time": "after",
     "eps_forecast": 2.27,
     "n_ests": 6.0,
     "last_year_eps": 0.92,
+    "fiscal_q": "Sep/2026"
+   },
+   "AMG": {
+    "time": "pre",
+    "eps_forecast": 8.7,
+    "n_ests": 6.0,
+    "last_year_eps": 6.1,
     "fiscal_q": "Sep/2026"
    },
    "TGTX": {
@@ -5642,18 +5642,18 @@
     "last_year_eps": 0.85,
     "fiscal_q": "Sep/2026"
    },
-   "ZETA": {
-    "time": "after",
-    "eps_forecast": 0.08,
-    "n_ests": 4.0,
-    "last_year_eps": 0.01,
-    "fiscal_q": "Sep/2026"
-   },
    "PRAX": {
     "time": "pre",
     "eps_forecast": -3.68,
     "n_ests": 8.0,
     "last_year_eps": -3.36,
+    "fiscal_q": "Sep/2026"
+   },
+   "ZETA": {
+    "time": "after",
+    "eps_forecast": 0.08,
+    "n_ests": 4.0,
+    "last_year_eps": 0.01,
     "fiscal_q": "Sep/2026"
    },
    "QLYS": {
@@ -5677,18 +5677,18 @@
     "last_year_eps": -1.2,
     "fiscal_q": "Sep/2026"
    },
-   "CWST": {
-    "time": "after",
-    "eps_forecast": 0.36,
-    "n_ests": 6.0,
-    "last_year_eps": 0.42,
-    "fiscal_q": "Sep/2026"
-   },
    "BLTE": {
     "time": "tbd",
     "eps_forecast": -0.73,
     "n_ests": 3.0,
     "last_year_eps": -0.65,
+    "fiscal_q": "Sep/2026"
+   },
+   "CWST": {
+    "time": "after",
+    "eps_forecast": 0.36,
+    "n_ests": 6.0,
+    "last_year_eps": 0.42,
     "fiscal_q": "Sep/2026"
    },
    "TTD": {
@@ -5698,18 +5698,18 @@
     "last_year_eps": 0.23,
     "fiscal_q": "Sep/2026"
    },
-   "HIMS": {
-    "time": "after",
-    "eps_forecast": 0.07,
-    "n_ests": 4.0,
-    "last_year_eps": 0.06,
-    "fiscal_q": "Sep/2026"
-   },
    "IMVT": {
     "time": "pre",
     "eps_forecast": -0.73,
     "n_ests": 6.0,
     "last_year_eps": -0.73,
+    "fiscal_q": "Sep/2026"
+   },
+   "HIMS": {
+    "time": "after",
+    "eps_forecast": 0.07,
+    "n_ests": 4.0,
+    "last_year_eps": 0.06,
     "fiscal_q": "Sep/2026"
    },
    "RDNT": {
@@ -5747,13 +5747,6 @@
     "last_year_eps": 1.12,
     "fiscal_q": "Sep/2026"
    },
-   "TEO": {
-    "time": "tbd",
-    "eps_forecast": 0.32,
-    "n_ests": 2.0,
-    "last_year_eps": -0.36,
-    "fiscal_q": "Sep/2026"
-   },
    "KGS": {
     "time": "pre",
     "eps_forecast": 0.64,
@@ -5768,11 +5761,11 @@
     "last_year_eps": -0.78,
     "fiscal_q": "Sep/2026"
    },
-   "MNDY": {
-    "time": "pre",
-    "eps_forecast": 0.49,
-    "n_ests": 3.0,
-    "last_year_eps": 0.25,
+   "TEO": {
+    "time": "tbd",
+    "eps_forecast": 0.32,
+    "n_ests": 2.0,
+    "last_year_eps": -0.36,
     "fiscal_q": "Sep/2026"
    },
    "TKC": {
@@ -5787,6 +5780,20 @@
     "eps_forecast": 0.02,
     "n_ests": 3.0,
     "last_year_eps": null,
+    "fiscal_q": "Sep/2026"
+   },
+   "MNDY": {
+    "time": "pre",
+    "eps_forecast": 0.49,
+    "n_ests": 3.0,
+    "last_year_eps": 0.25,
+    "fiscal_q": "Sep/2026"
+   },
+   "ABCL": {
+    "time": "after",
+    "eps_forecast": -0.18,
+    "n_ests": 3.0,
+    "last_year_eps": -0.19,
     "fiscal_q": "Sep/2026"
    },
    "TDW": {
@@ -5808,13 +5815,6 @@
     "eps_forecast": -1.17,
     "n_ests": 8.0,
     "last_year_eps": -1.15,
-    "fiscal_q": "Sep/2026"
-   },
-   "ABCL": {
-    "time": "after",
-    "eps_forecast": -0.18,
-    "n_ests": 3.0,
-    "last_year_eps": -0.19,
     "fiscal_q": "Sep/2026"
    },
    "NHI": {
@@ -5852,27 +5852,6 @@
     "last_year_eps": -0.69,
     "fiscal_q": "Sep/2026"
    },
-   "ASST": {
-    "time": "tbd",
-    "eps_forecast": 3.44,
-    "n_ests": 3.0,
-    "last_year_eps": null,
-    "fiscal_q": "Sep/2026"
-   },
-   "GCMG": {
-    "time": "pre",
-    "eps_forecast": 0.18,
-    "n_ests": 5.0,
-    "last_year_eps": 0.17,
-    "fiscal_q": "Sep/2026"
-   },
-   "WTTR": {
-    "time": "pre",
-    "eps_forecast": 0.17,
-    "n_ests": 6.0,
-    "last_year_eps": 0.03,
-    "fiscal_q": "Sep/2026"
-   },
    "MARA": {
     "time": "after",
     "eps_forecast": -0.04,
@@ -5887,11 +5866,25 @@
     "last_year_eps": null,
     "fiscal_q": "Sep/2026"
    },
-   "CLDX": {
+   "WTTR": {
+    "time": "pre",
+    "eps_forecast": 0.17,
+    "n_ests": 6.0,
+    "last_year_eps": 0.03,
+    "fiscal_q": "Sep/2026"
+   },
+   "ASST": {
     "time": "tbd",
-    "eps_forecast": -1.02,
-    "n_ests": 4.0,
-    "last_year_eps": -1.01,
+    "eps_forecast": 3.44,
+    "n_ests": 3.0,
+    "last_year_eps": null,
+    "fiscal_q": "Sep/2026"
+   },
+   "GCMG": {
+    "time": "pre",
+    "eps_forecast": 0.18,
+    "n_ests": 5.0,
+    "last_year_eps": 0.17,
     "fiscal_q": "Sep/2026"
    },
    "CSQR": {
@@ -5901,18 +5894,11 @@
     "last_year_eps": null,
     "fiscal_q": "Sep/2026"
    },
-   "NESR": {
-    "time": "pre",
-    "eps_forecast": 0.36,
-    "n_ests": 5.0,
-    "last_year_eps": 0.16,
-    "fiscal_q": "Sep/2026"
-   },
-   "KMPR": {
-    "time": "after",
-    "eps_forecast": 0.66,
+   "CLDX": {
+    "time": "tbd",
+    "eps_forecast": -1.02,
     "n_ests": 4.0,
-    "last_year_eps": 0.33,
+    "last_year_eps": -1.01,
     "fiscal_q": "Sep/2026"
    },
    "ZYME": {
@@ -5922,18 +5908,11 @@
     "last_year_eps": -0.26,
     "fiscal_q": "Sep/2026"
    },
-   "SEPN": {
-    "time": "tbd",
-    "eps_forecast": -0.55,
+   "NESR": {
+    "time": "pre",
+    "eps_forecast": 0.36,
     "n_ests": 5.0,
-    "last_year_eps": -0.09,
-    "fiscal_q": "Sep/2026"
-   },
-   "TRVI": {
-    "time": "after",
-    "eps_forecast": -0.13,
-    "n_ests": 6.0,
-    "last_year_eps": -0.08,
+    "last_year_eps": 0.16,
     "fiscal_q": "Sep/2026"
    },
    "WGS": {
@@ -5941,6 +5920,27 @@
     "eps_forecast": 0.07,
     "n_ests": 1.0,
     "last_year_eps": 0.49,
+    "fiscal_q": "Sep/2026"
+   },
+   "SEPN": {
+    "time": "tbd",
+    "eps_forecast": -0.55,
+    "n_ests": 5.0,
+    "last_year_eps": -0.09,
+    "fiscal_q": "Sep/2026"
+   },
+   "KMPR": {
+    "time": "after",
+    "eps_forecast": 0.66,
+    "n_ests": 4.0,
+    "last_year_eps": 0.33,
+    "fiscal_q": "Sep/2026"
+   },
+   "TRVI": {
+    "time": "after",
+    "eps_forecast": -0.13,
+    "n_ests": 6.0,
+    "last_year_eps": -0.08,
     "fiscal_q": "Sep/2026"
    },
    "PLUG": {
@@ -5971,13 +5971,6 @@
     "last_year_eps": -0.09,
     "fiscal_q": "Sep/2026"
    },
-   "GSL": {
-    "time": "pre",
-    "eps_forecast": 2.32,
-    "n_ests": 1.0,
-    "last_year_eps": 2.62,
-    "fiscal_q": "Sep/2026"
-   },
    "QUBT": {
     "time": "after",
     "eps_forecast": -0.07,
@@ -5985,11 +5978,11 @@
     "last_year_eps": -0.05,
     "fiscal_q": "Sep/2026"
    },
-   "SBET": {
+   "GSL": {
     "time": "pre",
-    "eps_forecast": 0.02,
+    "eps_forecast": 2.32,
     "n_ests": 1.0,
-    "last_year_eps": -0.02,
+    "last_year_eps": 2.62,
     "fiscal_q": "Sep/2026"
    },
    "TH": {
@@ -5999,11 +5992,25 @@
     "last_year_eps": -0.01,
     "fiscal_q": "Sep/2026"
    },
+   "SBET": {
+    "time": "pre",
+    "eps_forecast": 0.02,
+    "n_ests": 1.0,
+    "last_year_eps": -0.02,
+    "fiscal_q": "Sep/2026"
+   },
    "TPB": {
     "time": "pre",
     "eps_forecast": 0.19,
     "n_ests": 2.0,
     "last_year_eps": 1.13,
+    "fiscal_q": "Sep/2026"
+   },
+   "SECZ": {
+    "time": "after",
+    "eps_forecast": null,
+    "n_ests": 3.0,
+    "last_year_eps": null,
     "fiscal_q": "Sep/2026"
    },
    "DOLE": {
@@ -6020,20 +6027,6 @@
     "last_year_eps": 0.16,
     "fiscal_q": "Sep/2026"
    },
-   "LCID": {
-    "time": "after",
-    "eps_forecast": -2.78,
-    "n_ests": 2.0,
-    "last_year_eps": -3.31,
-    "fiscal_q": "Sep/2026"
-   },
-   "SECZ": {
-    "time": "after",
-    "eps_forecast": null,
-    "n_ests": 3.0,
-    "last_year_eps": null,
-    "fiscal_q": "Sep/2026"
-   },
    "WBTN": {
     "time": "after",
     "eps_forecast": -0.05,
@@ -6041,11 +6034,25 @@
     "last_year_eps": -0.02,
     "fiscal_q": "Sep/2026"
    },
+   "LCID": {
+    "time": "after",
+    "eps_forecast": -2.78,
+    "n_ests": 2.0,
+    "last_year_eps": -3.31,
+    "fiscal_q": "Sep/2026"
+   },
    "AMRC": {
     "time": "after",
     "eps_forecast": 0.58,
     "n_ests": 4.0,
     "last_year_eps": 0.35,
+    "fiscal_q": "Sep/2026"
+   },
+   "APPS": {
+    "time": "after",
+    "eps_forecast": 0.14,
+    "n_ests": 2.0,
+    "last_year_eps": 0.1,
     "fiscal_q": "Sep/2026"
    },
    "HPK": {
@@ -6069,13 +6076,6 @@
     "last_year_eps": 0.33,
     "fiscal_q": "Sep/2026"
    },
-   "APPS": {
-    "time": "after",
-    "eps_forecast": 0.14,
-    "n_ests": 2.0,
-    "last_year_eps": 0.1,
-    "fiscal_q": "Sep/2026"
-   },
    "LIF": {
     "time": "after",
     "eps_forecast": null,
@@ -6090,25 +6090,11 @@
     "last_year_eps": 0.65,
     "fiscal_q": "Sep/2026"
    },
-   "MUX": {
-    "time": "pre",
-    "eps_forecast": 0.09,
-    "n_ests": 1.0,
-    "last_year_eps": -0.01,
-    "fiscal_q": "Sep/2026"
-   },
    "DSP": {
     "time": "after",
     "eps_forecast": -0.03,
     "n_ests": 1.0,
     "last_year_eps": null,
-    "fiscal_q": "Sep/2026"
-   },
-   "YALA": {
-    "time": "tbd",
-    "eps_forecast": null,
-    "n_ests": 3.0,
-    "last_year_eps": 0.23,
     "fiscal_q": "Sep/2026"
    },
    "PAYS": {
@@ -6118,11 +6104,18 @@
     "last_year_eps": 0.04,
     "fiscal_q": "Sep/2026"
    },
-   "VRTS": {
-    "time": "pre",
-    "eps_forecast": 5.78,
+   "YALA": {
+    "time": "tbd",
+    "eps_forecast": null,
     "n_ests": 3.0,
-    "last_year_eps": 6.69,
+    "last_year_eps": 0.23,
+    "fiscal_q": "Sep/2026"
+   },
+   "MUX": {
+    "time": "pre",
+    "eps_forecast": 0.09,
+    "n_ests": 1.0,
+    "last_year_eps": -0.01,
     "fiscal_q": "Sep/2026"
    },
    "CEVA": {
@@ -6132,11 +6125,11 @@
     "last_year_eps": -0.08,
     "fiscal_q": "Sep/2026"
    },
-   "APEI": {
-    "time": "after",
-    "eps_forecast": 0.26,
-    "n_ests": 5.0,
-    "last_year_eps": 0.3,
+   "VRTS": {
+    "time": "pre",
+    "eps_forecast": 5.78,
+    "n_ests": 3.0,
+    "last_year_eps": 6.69,
     "fiscal_q": "Sep/2026"
    },
    "ANNX": {
@@ -6146,25 +6139,18 @@
     "last_year_eps": -0.37,
     "fiscal_q": "Sep/2026"
    },
+   "APEI": {
+    "time": "after",
+    "eps_forecast": 0.26,
+    "n_ests": 5.0,
+    "last_year_eps": 0.3,
+    "fiscal_q": "Sep/2026"
+   },
    "PUBM": {
     "time": "after",
     "eps_forecast": 0.0,
     "n_ests": 3.0,
     "last_year_eps": -0.14,
-    "fiscal_q": "Sep/2026"
-   },
-   "BCSF": {
-    "time": "after",
-    "eps_forecast": 0.44,
-    "n_ests": 1.0,
-    "last_year_eps": 0.45,
-    "fiscal_q": "Sep/2026"
-   },
-   "CRESY": {
-    "time": "tbd",
-    "eps_forecast": null,
-    "n_ests": 3.0,
-    "last_year_eps": 0.41,
     "fiscal_q": "Sep/2026"
    },
    "GDOT": {
@@ -6174,11 +6160,11 @@
     "last_year_eps": -0.02,
     "fiscal_q": "Sep/2026"
    },
-   "CNNE": {
+   "BCSF": {
     "time": "after",
-    "eps_forecast": null,
-    "n_ests": 3.0,
-    "last_year_eps": -1.06,
+    "eps_forecast": 0.44,
+    "n_ests": 1.0,
+    "last_year_eps": 0.45,
     "fiscal_q": "Sep/2026"
    },
    "MLAB": {
@@ -6188,6 +6174,13 @@
     "last_year_eps": 1.22,
     "fiscal_q": "Sep/2026"
    },
+   "CNNE": {
+    "time": "after",
+    "eps_forecast": null,
+    "n_ests": 3.0,
+    "last_year_eps": -1.06,
+    "fiscal_q": "Sep/2026"
+   },
    "QMCO": {
     "time": "after",
     "eps_forecast": 0.1,
@@ -6195,18 +6188,18 @@
     "last_year_eps": -0.56,
     "fiscal_q": "Sep/2026"
    },
-   "AVBP": {
-    "time": "tbd",
-    "eps_forecast": -1.04,
-    "n_ests": 3.0,
-    "last_year_eps": -0.83,
+   "RXT": {
+    "time": "after",
+    "eps_forecast": null,
+    "n_ests": null,
+    "last_year_eps": -0.05,
     "fiscal_q": "Sep/2026"
    },
-   "LINC": {
-    "time": "pre",
-    "eps_forecast": 0.13,
+   "CRESY": {
+    "time": "tbd",
+    "eps_forecast": null,
     "n_ests": 3.0,
-    "last_year_eps": 0.2,
+    "last_year_eps": 0.41,
     "fiscal_q": "Sep/2026"
    },
    "FDMT": {
@@ -6216,18 +6209,11 @@
     "last_year_eps": -1.01,
     "fiscal_q": "Sep/2026"
    },
-   "TRON": {
-    "time": "tbd",
-    "eps_forecast": null,
+   "LINC": {
+    "time": "pre",
+    "eps_forecast": 0.13,
     "n_ests": 3.0,
-    "last_year_eps": -0.01,
-    "fiscal_q": "Sep/2026"
-   },
-   "FWRD": {
-    "time": "after",
-    "eps_forecast": 0.2,
-    "n_ests": 2.0,
-    "last_year_eps": -0.52,
+    "last_year_eps": 0.2,
     "fiscal_q": "Sep/2026"
    },
    "OLMA": {
@@ -6237,11 +6223,18 @@
     "last_year_eps": -0.49,
     "fiscal_q": "Sep/2026"
    },
-   "GAIN": {
-    "time": "after",
-    "eps_forecast": 0.22,
-    "n_ests": 2.0,
-    "last_year_eps": 0.24,
+   "AVBP": {
+    "time": "tbd",
+    "eps_forecast": -1.04,
+    "n_ests": 3.0,
+    "last_year_eps": -0.83,
+    "fiscal_q": "Sep/2026"
+   },
+   "TRON": {
+    "time": "tbd",
+    "eps_forecast": null,
+    "n_ests": 3.0,
+    "last_year_eps": -0.01,
     "fiscal_q": "Sep/2026"
    },
    "BW": {
@@ -6258,11 +6251,11 @@
     "last_year_eps": null,
     "fiscal_q": "Sep/2026"
    },
-   "RXT": {
+   "FWRD": {
     "time": "after",
-    "eps_forecast": null,
-    "n_ests": null,
-    "last_year_eps": -0.05,
+    "eps_forecast": 0.2,
+    "n_ests": 2.0,
+    "last_year_eps": -0.52,
     "fiscal_q": "Sep/2026"
    },
    "GMRS": {
@@ -6279,6 +6272,20 @@
     "last_year_eps": -0.13,
     "fiscal_q": "Sep/2026"
    },
+   "GAIN": {
+    "time": "after",
+    "eps_forecast": 0.22,
+    "n_ests": 2.0,
+    "last_year_eps": 0.24,
+    "fiscal_q": "Sep/2026"
+   },
+   "BCAX": {
+    "time": "pre",
+    "eps_forecast": -0.84,
+    "n_ests": 6.0,
+    "last_year_eps": -0.67,
+    "fiscal_q": "Sep/2026"
+   },
    "EVGO": {
     "time": "pre",
     "eps_forecast": -0.15,
@@ -6291,13 +6298,6 @@
     "eps_forecast": 0.25,
     "n_ests": 1.0,
     "last_year_eps": 0.43,
-    "fiscal_q": "Sep/2026"
-   },
-   "BCAX": {
-    "time": "pre",
-    "eps_forecast": -0.84,
-    "n_ests": 6.0,
-    "last_year_eps": -0.67,
     "fiscal_q": "Sep/2026"
    },
    "HNRG": {
@@ -6314,18 +6314,18 @@
     "last_year_eps": 0.02,
     "fiscal_q": "Sep/2026"
    },
-   "SENS": {
-    "time": "after",
-    "eps_forecast": -0.49,
-    "n_ests": 3.0,
-    "last_year_eps": -0.43,
-    "fiscal_q": "Sep/2026"
-   },
    "SOC": {
     "time": "pre",
     "eps_forecast": -0.36,
     "n_ests": 3.0,
     "last_year_eps": -1.11,
+    "fiscal_q": "Sep/2026"
+   },
+   "SENS": {
+    "time": "after",
+    "eps_forecast": -0.49,
+    "n_ests": 3.0,
+    "last_year_eps": -0.43,
     "fiscal_q": "Sep/2026"
    },
    "RLGT": {
@@ -6349,13 +6349,6 @@
     "last_year_eps": 0.09,
     "fiscal_q": "Sep/2026"
    },
-   "RPAY": {
-    "time": "after",
-    "eps_forecast": 0.25,
-    "n_ests": 1.0,
-    "last_year_eps": 0.17,
-    "fiscal_q": "Sep/2026"
-   },
    "NGS": {
     "time": "after",
     "eps_forecast": 0.45,
@@ -6363,18 +6356,11 @@
     "last_year_eps": 0.46,
     "fiscal_q": "Sep/2026"
    },
-   "ALTI": {
+   "RPAY": {
     "time": "after",
-    "eps_forecast": 0.01,
+    "eps_forecast": 0.25,
     "n_ests": 1.0,
-    "last_year_eps": -0.06,
-    "fiscal_q": "Sep/2026"
-   },
-   "BETR": {
-    "time": "after",
-    "eps_forecast": -1.44,
-    "n_ests": 2.0,
-    "last_year_eps": -2.14,
+    "last_year_eps": 0.17,
     "fiscal_q": "Sep/2026"
    },
    "ASMB": {
@@ -6391,11 +6377,11 @@
     "last_year_eps": -0.28,
     "fiscal_q": "Sep/2026"
    },
-   "AIOT": {
-    "time": "tbd",
-    "eps_forecast": 0.0,
-    "n_ests": 2.0,
-    "last_year_eps": -0.03,
+   "ALTI": {
+    "time": "after",
+    "eps_forecast": 0.01,
+    "n_ests": 1.0,
+    "last_year_eps": -0.06,
     "fiscal_q": "Sep/2026"
    },
    "TLS": {
@@ -6405,11 +6391,11 @@
     "last_year_eps": -0.04,
     "fiscal_q": "Sep/2026"
    },
-   "CTEV": {
-    "time": "pre",
-    "eps_forecast": -3.68,
-    "n_ests": 1.0,
-    "last_year_eps": -4.07,
+   "AIOT": {
+    "time": "tbd",
+    "eps_forecast": 0.0,
+    "n_ests": 2.0,
+    "last_year_eps": -0.03,
     "fiscal_q": "Sep/2026"
    },
    "CMCL": {
@@ -6419,11 +6405,39 @@
     "last_year_eps": 0.77,
     "fiscal_q": "Sep/2026"
    },
+   "BETR": {
+    "time": "after",
+    "eps_forecast": -1.44,
+    "n_ests": 2.0,
+    "last_year_eps": -2.14,
+    "fiscal_q": "Sep/2026"
+   },
    "OFIX": {
     "time": "pre",
     "eps_forecast": -0.31,
     "n_ests": 1.0,
     "last_year_eps": -0.57,
+    "fiscal_q": "Sep/2026"
+   },
+   "CTEV": {
+    "time": "pre",
+    "eps_forecast": -3.68,
+    "n_ests": 1.0,
+    "last_year_eps": -4.07,
+    "fiscal_q": "Sep/2026"
+   },
+   "MNTK": {
+    "time": "after",
+    "eps_forecast": 0.05,
+    "n_ests": 1.0,
+    "last_year_eps": 0.04,
+    "fiscal_q": "Sep/2026"
+   },
+   "VFF": {
+    "time": "pre",
+    "eps_forecast": 0.05,
+    "n_ests": 2.0,
+    "last_year_eps": 0.08,
     "fiscal_q": "Sep/2026"
    },
    "ZIP": {
@@ -6440,46 +6454,11 @@
     "last_year_eps": 0.46,
     "fiscal_q": "Sep/2026"
    },
-   "MNTK": {
-    "time": "after",
-    "eps_forecast": 0.05,
-    "n_ests": 1.0,
-    "last_year_eps": 0.04,
-    "fiscal_q": "Sep/2026"
-   },
-   "OBIO": {
-    "time": "tbd",
-    "eps_forecast": -0.4,
-    "n_ests": 4.0,
-    "last_year_eps": -0.4,
-    "fiscal_q": "Sep/2026"
-   },
-   "PROK": {
-    "time": "tbd",
-    "eps_forecast": -0.13,
-    "n_ests": 2.0,
-    "last_year_eps": -0.12,
-    "fiscal_q": "Sep/2026"
-   },
    "SOHU": {
     "time": "pre",
     "eps_forecast": null,
     "n_ests": 3.0,
     "last_year_eps": 0.32,
-    "fiscal_q": "Sep/2026"
-   },
-   "RNGR": {
-    "time": "after",
-    "eps_forecast": 0.37,
-    "n_ests": 1.0,
-    "last_year_eps": 0.05,
-    "fiscal_q": "Sep/2026"
-   },
-   "AMCX": {
-    "time": "after",
-    "eps_forecast": -0.11,
-    "n_ests": 3.0,
-    "last_year_eps": 0.18,
     "fiscal_q": "Sep/2026"
    },
    "AVIR": {
@@ -6489,6 +6468,27 @@
     "last_year_eps": -0.53,
     "fiscal_q": "Sep/2026"
    },
+   "OBIO": {
+    "time": "tbd",
+    "eps_forecast": -0.4,
+    "n_ests": 4.0,
+    "last_year_eps": -0.4,
+    "fiscal_q": "Sep/2026"
+   },
+   "AMCX": {
+    "time": "after",
+    "eps_forecast": -0.11,
+    "n_ests": 3.0,
+    "last_year_eps": 0.18,
+    "fiscal_q": "Sep/2026"
+   },
+   "RNGR": {
+    "time": "after",
+    "eps_forecast": 0.37,
+    "n_ests": 1.0,
+    "last_year_eps": 0.05,
+    "fiscal_q": "Sep/2026"
+   },
    "PPHC": {
     "time": "after",
     "eps_forecast": 0.11,
@@ -6496,11 +6496,11 @@
     "last_year_eps": null,
     "fiscal_q": "Sep/2026"
    },
-   "VFF": {
-    "time": "pre",
-    "eps_forecast": 0.05,
+   "PROK": {
+    "time": "tbd",
+    "eps_forecast": -0.13,
     "n_ests": 2.0,
-    "last_year_eps": 0.08,
+    "last_year_eps": -0.12,
     "fiscal_q": "Sep/2026"
    },
    "FRD": {
@@ -6510,11 +6510,11 @@
     "last_year_eps": 0.32,
     "fiscal_q": "Sep/2026"
    },
-   "IMXI": {
-    "time": "tbd",
+   "OPI": {
+    "time": "after",
     "eps_forecast": null,
     "n_ests": 3.0,
-    "last_year_eps": 0.32,
+    "last_year_eps": null,
     "fiscal_q": "Sep/2026"
    },
    "EVI": {
@@ -6524,18 +6524,11 @@
     "last_year_eps": 0.11,
     "fiscal_q": "Sep/2026"
    },
-   "OPI": {
+   "IHRT": {
     "time": "after",
-    "eps_forecast": null,
+    "eps_forecast": 0.0,
     "n_ests": 3.0,
-    "last_year_eps": null,
-    "fiscal_q": "Sep/2026"
-   },
-   "PRE": {
-    "time": "tbd",
-    "eps_forecast": -0.73,
-    "n_ests": 4.0,
-    "last_year_eps": -0.41,
+    "last_year_eps": 0.63,
     "fiscal_q": "Sep/2026"
    },
    "LTRX": {
@@ -6545,18 +6538,25 @@
     "last_year_eps": -0.04,
     "fiscal_q": "Sep/2026"
    },
+   "PRE": {
+    "time": "tbd",
+    "eps_forecast": -0.73,
+    "n_ests": 4.0,
+    "last_year_eps": -0.41,
+    "fiscal_q": "Sep/2026"
+   },
+   "IMXI": {
+    "time": "tbd",
+    "eps_forecast": null,
+    "n_ests": 3.0,
+    "last_year_eps": 0.32,
+    "fiscal_q": "Sep/2026"
+   },
    "OPAL": {
     "time": "pre",
     "eps_forecast": null,
     "n_ests": 3.0,
     "last_year_eps": 0.05,
-    "fiscal_q": "Sep/2026"
-   },
-   "IFRX": {
-    "time": "tbd",
-    "eps_forecast": -0.07,
-    "n_ests": 3.0,
-    "last_year_eps": -0.16,
     "fiscal_q": "Sep/2026"
    },
    "FF": {
@@ -6573,11 +6573,11 @@
     "last_year_eps": 0.02,
     "fiscal_q": "Sep/2026"
    },
-   "ALTG": {
+   "OSUR": {
     "time": "after",
     "eps_forecast": -0.22,
-    "n_ests": 3.0,
-    "last_year_eps": -1.31,
+    "n_ests": 1.0,
+    "last_year_eps": -0.17,
     "fiscal_q": "Sep/2026"
    },
    "CABA": {
@@ -6587,20 +6587,6 @@
     "last_year_eps": -0.44,
     "fiscal_q": "Sep/2026"
    },
-   "IHRT": {
-    "time": "after",
-    "eps_forecast": 0.0,
-    "n_ests": 3.0,
-    "last_year_eps": 0.63,
-    "fiscal_q": "Sep/2026"
-   },
-   "OSUR": {
-    "time": "after",
-    "eps_forecast": -0.22,
-    "n_ests": 1.0,
-    "last_year_eps": -0.17,
-    "fiscal_q": "Sep/2026"
-   },
    "AIV": {
     "time": "tbd",
     "eps_forecast": null,
@@ -6608,11 +6594,25 @@
     "last_year_eps": null,
     "fiscal_q": "Sep/2026"
    },
-   "OSG": {
-    "time": "after",
-    "eps_forecast": -0.06,
+   "IFRX": {
+    "time": "tbd",
+    "eps_forecast": -0.07,
     "n_ests": 3.0,
-    "last_year_eps": -0.21,
+    "last_year_eps": -0.16,
+    "fiscal_q": "Sep/2026"
+   },
+   "ALTG": {
+    "time": "after",
+    "eps_forecast": -0.22,
+    "n_ests": 3.0,
+    "last_year_eps": -1.31,
+    "fiscal_q": "Sep/2026"
+   },
+   "MVST": {
+    "time": "after",
+    "eps_forecast": null,
+    "n_ests": null,
+    "last_year_eps": 0.04,
     "fiscal_q": "Sep/2026"
    },
    "KLTR": {
@@ -6622,11 +6622,11 @@
     "last_year_eps": -0.02,
     "fiscal_q": "Sep/2026"
    },
-   "MVST": {
+   "OSG": {
     "time": "after",
-    "eps_forecast": null,
-    "n_ests": null,
-    "last_year_eps": 0.04,
+    "eps_forecast": -0.06,
+    "n_ests": 3.0,
+    "last_year_eps": -0.21,
     "fiscal_q": "Sep/2026"
    },
    "CURR": {
@@ -6643,6 +6643,20 @@
     "last_year_eps": -0.09,
     "fiscal_q": "Sep/2026"
    },
+   "PALI": {
+    "time": "tbd",
+    "eps_forecast": -0.06,
+    "n_ests": 7.0,
+    "last_year_eps": -0.38,
+    "fiscal_q": "Sep/2026"
+   },
+   "BKKT": {
+    "time": "after",
+    "eps_forecast": null,
+    "n_ests": 3.0,
+    "last_year_eps": 1.2,
+    "fiscal_q": "Sep/2026"
+   },
    "SGC": {
     "time": "pre",
     "eps_forecast": 0.18,
@@ -6657,11 +6671,11 @@
     "last_year_eps": 0.34,
     "fiscal_q": "Sep/2026"
    },
-   "BKKT": {
-    "time": "after",
-    "eps_forecast": null,
-    "n_ests": 3.0,
-    "last_year_eps": 1.2,
+   "ADCT": {
+    "time": "pre",
+    "eps_forecast": -0.21,
+    "n_ests": 1.0,
+    "last_year_eps": -0.3,
     "fiscal_q": "Sep/2026"
    },
    "MPAA": {
@@ -6671,25 +6685,18 @@
     "last_year_eps": 0.07,
     "fiscal_q": "Sep/2026"
    },
-   "ADCT": {
-    "time": "pre",
-    "eps_forecast": -0.21,
-    "n_ests": 1.0,
-    "last_year_eps": -0.3,
-    "fiscal_q": "Sep/2026"
-   },
-   "PALI": {
-    "time": "tbd",
-    "eps_forecast": -0.06,
-    "n_ests": 7.0,
-    "last_year_eps": -0.38,
-    "fiscal_q": "Sep/2026"
-   },
    "CGEN": {
     "time": "pre",
     "eps_forecast": -0.08,
     "n_ests": 3.0,
     "last_year_eps": -0.07,
+    "fiscal_q": "Sep/2026"
+   },
+   "WHF": {
+    "time": "pre",
+    "eps_forecast": 0.25,
+    "n_ests": 4.0,
+    "last_year_eps": 0.26,
     "fiscal_q": "Sep/2026"
    },
    "JRVR": {
@@ -6706,11 +6713,11 @@
     "last_year_eps": -0.37,
     "fiscal_q": "Sep/2026"
    },
-   "WHF": {
-    "time": "pre",
-    "eps_forecast": 0.25,
-    "n_ests": 4.0,
-    "last_year_eps": 0.26,
+   "TMCR": {
+    "time": "tbd",
+    "eps_forecast": -0.09,
+    "n_ests": 3.0,
+    "last_year_eps": null,
     "fiscal_q": "Sep/2026"
    },
    "SANG": {
@@ -6720,25 +6727,11 @@
     "last_year_eps": -0.06,
     "fiscal_q": "Sep/2026"
    },
-   "TMCR": {
-    "time": "tbd",
-    "eps_forecast": -0.09,
-    "n_ests": 3.0,
-    "last_year_eps": null,
-    "fiscal_q": "Sep/2026"
-   },
    "EXOD": {
     "time": "after",
     "eps_forecast": -0.03,
     "n_ests": 1.0,
     "last_year_eps": 0.53,
-    "fiscal_q": "Sep/2026"
-   },
-   "EU": {
-    "time": "tbd",
-    "eps_forecast": -0.12,
-    "n_ests": 2.0,
-    "last_year_eps": -0.07,
     "fiscal_q": "Sep/2026"
    },
    "TARA": {
@@ -6748,11 +6741,11 @@
     "last_year_eps": -0.31,
     "fiscal_q": "Sep/2026"
    },
-   "AMRO": {
-    "time": "after",
+   "QTRX": {
+    "time": "pre",
     "eps_forecast": null,
     "n_ests": 3.0,
-    "last_year_eps": null,
+    "last_year_eps": -0.36,
     "fiscal_q": "Sep/2026"
    },
    "RAIL": {
@@ -6762,32 +6755,18 @@
     "last_year_eps": 0.23,
     "fiscal_q": "Sep/2026"
    },
-   "QTRX": {
-    "time": "pre",
+   "EU": {
+    "time": "tbd",
+    "eps_forecast": -0.12,
+    "n_ests": 2.0,
+    "last_year_eps": -0.07,
+    "fiscal_q": "Sep/2026"
+   },
+   "AMRO": {
+    "time": "after",
     "eps_forecast": null,
     "n_ests": 3.0,
-    "last_year_eps": -0.36,
-    "fiscal_q": "Sep/2026"
-   },
-   "SPRB": {
-    "time": "tbd",
-    "eps_forecast": -5.76,
-    "n_ests": 3.0,
-    "last_year_eps": -14.58,
-    "fiscal_q": "Sep/2026"
-   },
-   "CATX": {
-    "time": "tbd",
-    "eps_forecast": -0.24,
-    "n_ests": 8.0,
-    "last_year_eps": -0.35,
-    "fiscal_q": "Sep/2026"
-   },
-   "OPHC": {
-    "time": "tbd",
-    "eps_forecast": 0.27,
-    "n_ests": 3.0,
-    "last_year_eps": 0.18,
+    "last_year_eps": null,
     "fiscal_q": "Sep/2026"
    },
    "CHRS": {
@@ -6797,18 +6776,18 @@
     "last_year_eps": -0.38,
     "fiscal_q": "Sep/2026"
    },
-   "GHI": {
-    "time": "after",
-    "eps_forecast": null,
+   "SPRB": {
+    "time": "tbd",
+    "eps_forecast": -5.76,
     "n_ests": 3.0,
-    "last_year_eps": 0.03,
+    "last_year_eps": -14.58,
     "fiscal_q": "Sep/2026"
    },
-   "LFMD": {
-    "time": "pre",
-    "eps_forecast": -0.14,
-    "n_ests": 2.0,
-    "last_year_eps": -0.1,
+   "OPHC": {
+    "time": "tbd",
+    "eps_forecast": 0.27,
+    "n_ests": 3.0,
+    "last_year_eps": 0.18,
     "fiscal_q": "Sep/2026"
    },
    "VYGR": {
@@ -6818,11 +6797,25 @@
     "last_year_eps": -0.47,
     "fiscal_q": "Sep/2026"
    },
+   "GHI": {
+    "time": "after",
+    "eps_forecast": null,
+    "n_ests": 3.0,
+    "last_year_eps": 0.03,
+    "fiscal_q": "Sep/2026"
+   },
    "NKTX": {
     "time": "tbd",
     "eps_forecast": -0.4,
     "n_ests": 3.0,
     "last_year_eps": -0.29,
+    "fiscal_q": "Sep/2026"
+   },
+   "LFMD": {
+    "time": "pre",
+    "eps_forecast": -0.14,
+    "n_ests": 2.0,
+    "last_year_eps": -0.1,
     "fiscal_q": "Sep/2026"
    },
    "NINE": {
@@ -6832,11 +6825,11 @@
     "last_year_eps": null,
     "fiscal_q": "Sep/2026"
    },
-   "IMDX": {
+   "CATX": {
     "time": "tbd",
-    "eps_forecast": null,
-    "n_ests": 3.0,
-    "last_year_eps": -0.34,
+    "eps_forecast": -0.24,
+    "n_ests": 8.0,
+    "last_year_eps": -0.35,
     "fiscal_q": "Sep/2026"
    },
    "CBAT": {
@@ -6851,6 +6844,13 @@
     "eps_forecast": null,
     "n_ests": 3.0,
     "last_year_eps": 0.07,
+    "fiscal_q": "Sep/2026"
+   },
+   "IMDX": {
+    "time": "tbd",
+    "eps_forecast": null,
+    "n_ests": 3.0,
+    "last_year_eps": -0.34,
     "fiscal_q": "Sep/2026"
    },
    "TNXP": {
@@ -6902,6 +6902,13 @@
     "last_year_eps": 0.18,
     "fiscal_q": "Sep/2026"
    },
+   "ANTA": {
+    "time": "tbd",
+    "eps_forecast": 0.09,
+    "n_ests": 2.0,
+    "last_year_eps": 0.28,
+    "fiscal_q": "Sep/2026"
+   },
    "TELO": {
     "time": "tbd",
     "eps_forecast": null,
@@ -6916,11 +6923,11 @@
     "last_year_eps": -0.15,
     "fiscal_q": "Sep/2026"
    },
-   "ANTA": {
-    "time": "tbd",
-    "eps_forecast": 0.09,
-    "n_ests": 2.0,
-    "last_year_eps": 0.28,
+   "THRY": {
+    "time": "after",
+    "eps_forecast": -0.06,
+    "n_ests": 1.0,
+    "last_year_eps": 0.13,
     "fiscal_q": "Sep/2026"
    },
    "HRTX": {
@@ -6930,11 +6937,11 @@
     "last_year_eps": -0.05,
     "fiscal_q": "Sep/2026"
    },
-   "THRY": {
+   "MYO": {
     "time": "after",
-    "eps_forecast": -0.06,
-    "n_ests": 1.0,
-    "last_year_eps": 0.13,
+    "eps_forecast": -0.08,
+    "n_ests": 2.0,
+    "last_year_eps": -0.09,
     "fiscal_q": "Sep/2026"
    },
    "VOC": {
@@ -6942,13 +6949,6 @@
     "eps_forecast": null,
     "n_ests": 3.0,
     "last_year_eps": 0.11,
-    "fiscal_q": "Sep/2026"
-   },
-   "MYO": {
-    "time": "after",
-    "eps_forecast": -0.08,
-    "n_ests": 2.0,
-    "last_year_eps": -0.09,
     "fiscal_q": "Sep/2026"
    },
    "MREO": {
@@ -6986,18 +6986,18 @@
     "last_year_eps": -4.96,
     "fiscal_q": "Sep/2026"
    },
-   "AVD": {
-    "time": "after",
-    "eps_forecast": null,
-    "n_ests": 3.0,
-    "last_year_eps": -0.18,
-    "fiscal_q": "Sep/2026"
-   },
    "SEAT": {
     "time": "pre",
     "eps_forecast": -0.98,
     "n_ests": 4.0,
     "last_year_eps": -1.91,
+    "fiscal_q": "Sep/2026"
+   },
+   "AVD": {
+    "time": "after",
+    "eps_forecast": null,
+    "n_ests": 3.0,
+    "last_year_eps": -0.18,
     "fiscal_q": "Sep/2026"
    },
    "HHS": {
@@ -7021,18 +7021,18 @@
     "last_year_eps": 0.06,
     "fiscal_q": "Sep/2026"
    },
-   "CKX": {
-    "time": "tbd",
-    "eps_forecast": null,
-    "n_ests": 3.0,
-    "last_year_eps": 0.08,
-    "fiscal_q": "Sep/2026"
-   },
    "DCGO": {
     "time": "after",
     "eps_forecast": -0.04,
     "n_ests": 2.0,
     "last_year_eps": -0.11,
+    "fiscal_q": "Sep/2026"
+   },
+   "CKX": {
+    "time": "tbd",
+    "eps_forecast": null,
+    "n_ests": 3.0,
+    "last_year_eps": 0.08,
     "fiscal_q": "Sep/2026"
    },
    "TLF": {
@@ -7056,18 +7056,18 @@
     "last_year_eps": -1.13,
     "fiscal_q": "Sep/2026"
    },
+   "BIVI": {
+    "time": "tbd",
+    "eps_forecast": null,
+    "n_ests": 3.0,
+    "last_year_eps": -0.98,
+    "fiscal_q": "Sep/2026"
+   },
    "ASTI": {
     "time": "tbd",
     "eps_forecast": -0.21,
     "n_ests": 1.0,
     "last_year_eps": -0.62,
-    "fiscal_q": "Sep/2026"
-   },
-   "BBGI": {
-    "time": "tbd",
-    "eps_forecast": -0.45,
-    "n_ests": 1.0,
-    "last_year_eps": -1.97,
     "fiscal_q": "Sep/2026"
    },
    "HAIN": {
@@ -7077,18 +7077,11 @@
     "last_year_eps": -0.08,
     "fiscal_q": "Sep/2026"
    },
-   "BIVI": {
+   "BBGI": {
     "time": "tbd",
-    "eps_forecast": null,
-    "n_ests": 3.0,
-    "last_year_eps": -0.98,
-    "fiscal_q": "Sep/2026"
-   },
-   "TULP": {
-    "time": "tbd",
-    "eps_forecast": null,
-    "n_ests": 3.0,
-    "last_year_eps": -1.61,
+    "eps_forecast": -0.45,
+    "n_ests": 1.0,
+    "last_year_eps": -1.97,
     "fiscal_q": "Sep/2026"
    },
    "PASG": {
@@ -7098,25 +7091,18 @@
     "last_year_eps": -2.44,
     "fiscal_q": "Sep/2026"
    },
+   "TULP": {
+    "time": "tbd",
+    "eps_forecast": null,
+    "n_ests": 3.0,
+    "last_year_eps": -1.61,
+    "fiscal_q": "Sep/2026"
+   },
    "XHLD": {
     "time": "tbd",
     "eps_forecast": null,
     "n_ests": 3.0,
     "last_year_eps": -1.5,
-    "fiscal_q": "Sep/2026"
-   },
-   "OXBR": {
-    "time": "after",
-    "eps_forecast": -0.06,
-    "n_ests": 1.0,
-    "last_year_eps": -0.02,
-    "fiscal_q": "Sep/2026"
-   },
-   "SKYE": {
-    "time": "tbd",
-    "eps_forecast": null,
-    "n_ests": null,
-    "last_year_eps": -2.56,
     "fiscal_q": "Sep/2026"
    },
    "SNES": {
@@ -7126,11 +7112,25 @@
     "last_year_eps": -0.28,
     "fiscal_q": "Sep/2026"
    },
+   "OXBR": {
+    "time": "after",
+    "eps_forecast": -0.06,
+    "n_ests": 1.0,
+    "last_year_eps": -0.02,
+    "fiscal_q": "Sep/2026"
+   },
    "PRSO": {
     "time": "tbd",
     "eps_forecast": -0.19,
     "n_ests": 1.0,
     "last_year_eps": -0.17,
+    "fiscal_q": "Sep/2026"
+   },
+   "SKYE": {
+    "time": "tbd",
+    "eps_forecast": null,
+    "n_ests": null,
+    "last_year_eps": -2.56,
     "fiscal_q": "Sep/2026"
    },
    "CVKD": {
@@ -8159,7 +8159,7 @@
    "KEN": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 6.0,
+    "n_ests": 1.0,
     "last_year_eps": 0.45,
     "fiscal_q": "Sep/2026"
    },
@@ -8187,7 +8187,7 @@
    "ATTO": {
     "time": "tbd",
     "eps_forecast": -0.74,
-    "n_ests": 2.0,
+    "n_ests": 1.0,
     "last_year_eps": null,
     "fiscal_q": "Sep/2026"
    },
@@ -8201,21 +8201,21 @@
    "YB": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 6.0,
+    "n_ests": 1.0,
     "last_year_eps": 1.08,
     "fiscal_q": "Sep/2026"
    },
    "WDH": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 2.0,
+    "n_ests": 1.0,
     "last_year_eps": 0.06,
     "fiscal_q": "Sep/2026"
    },
    "SCTX": {
     "time": "tbd",
     "eps_forecast": -0.42,
-    "n_ests": 2.0,
+    "n_ests": 1.0,
     "last_year_eps": null,
     "fiscal_q": "Sep/2026"
    },
@@ -8236,21 +8236,21 @@
    "HNNA": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 6.0,
+    "n_ests": 1.0,
     "last_year_eps": 0.31,
     "fiscal_q": "Sep/2026"
    },
    "PTIV": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 2.0,
+    "n_ests": 1.0,
     "last_year_eps": null,
     "fiscal_q": "Aug/2026"
    },
    "CTRM": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 2.0,
+    "n_ests": 1.0,
     "last_year_eps": 0.03,
     "fiscal_q": "Sep/2026"
    }
@@ -8336,7 +8336,7 @@
    "MOMO": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 1.0,
+    "n_ests": 5.0,
     "last_year_eps": 0.29,
     "fiscal_q": "Sep/2026"
    },
@@ -8354,18 +8354,18 @@
     "last_year_eps": 0.76,
     "fiscal_q": "Oct/2026"
    },
-   "JACK": {
-    "time": "after",
-    "eps_forecast": 0.44,
-    "n_ests": 6.0,
-    "last_year_eps": 0.3,
-    "fiscal_q": "Sep/2026"
-   },
    "ELVA": {
     "time": "tbd",
     "eps_forecast": 0.0,
     "n_ests": 4.0,
     "last_year_eps": 0.06,
+    "fiscal_q": "Sep/2026"
+   },
+   "JACK": {
+    "time": "after",
+    "eps_forecast": 0.44,
+    "n_ests": 6.0,
+    "last_year_eps": 0.3,
     "fiscal_q": "Sep/2026"
    },
    "ASYS": {
@@ -8385,14 +8385,14 @@
    "KEQU": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 2.0,
+    "n_ests": 5.0,
     "last_year_eps": 0.91,
     "fiscal_q": "Oct/2026"
    },
    "NTRB": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 2.0,
+    "n_ests": 5.0,
     "last_year_eps": -0.32,
     "fiscal_q": "Oct/2026"
    },
@@ -8669,21 +8669,21 @@
    "VERU": {
     "time": "tbd",
     "eps_forecast": -0.34,
-    "n_ests": 2.0,
+    "n_ests": 1.0,
     "last_year_eps": null,
     "fiscal_q": "Sep/2026"
    },
    "YI": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 2.0,
+    "n_ests": 1.0,
     "last_year_eps": -0.2,
     "fiscal_q": "Sep/2026"
    },
    "JOB": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 3.0,
+    "n_ests": 1.0,
     "last_year_eps": -0.01,
     "fiscal_q": "Sep/2026"
    }
@@ -8885,18 +8885,18 @@
     "last_year_eps": -0.12,
     "fiscal_q": "Sep/2026"
    },
-   "VREX": {
-    "time": "tbd",
-    "eps_forecast": 0.33,
-    "n_ests": 1.0,
-    "last_year_eps": 0.37,
-    "fiscal_q": "Sep/2026"
-   },
    "SMWB": {
     "time": "pre",
     "eps_forecast": 0.03,
     "n_ests": 2.0,
     "last_year_eps": null,
+    "fiscal_q": "Sep/2026"
+   },
+   "VREX": {
+    "time": "tbd",
+    "eps_forecast": 0.33,
+    "n_ests": 1.0,
+    "last_year_eps": 0.37,
     "fiscal_q": "Sep/2026"
    },
    "QFIN": {

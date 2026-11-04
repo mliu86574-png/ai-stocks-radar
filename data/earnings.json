@@ -561,8 +561,8 @@
    "surprise_pct": 9.52,
    "reaction": null
   },
-  "eps_rev_1m_pct": -0.43478260869563856,
-  "eps_qtr_mean": 2.29
+  "eps_rev_1m_pct": 1.2048192771084265,
+  "eps_qtr_mean": 1.68
  },
  {
   "symbol": "AMZN",
@@ -1084,8 +1084,8 @@
    "surprise_pct": 63.46,
    "reaction": null
   },
-  "eps_rev_1m_pct": 5.681818181818188,
-  "eps_qtr_mean": 0.93
+  "eps_rev_1m_pct": 10.63829787234043,
+  "eps_qtr_mean": 1.04
  },
  {
   "symbol": "TSM",
@@ -1137,8 +1137,8 @@
    "surprise_pct": 3.37,
    "reaction": -4.044186046511622
   },
-  "eps_rev_1m_pct": 11.300639658848599,
-  "eps_qtr_mean": 5.22
+  "eps_rev_1m_pct": 0.0,
+  "eps_qtr_mean": 4.45
  },
  {
   "symbol": "VRT",
