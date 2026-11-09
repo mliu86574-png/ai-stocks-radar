@@ -1,59 +1,8 @@
 [
  {
-  "symbol": "CEG",
-  "next_date": "2026-11-09",
-  "days": 3,
-  "estimated": false,
-  "time": "pre",
-  "eps_forecast": 3.9,
-  "n_ests": 5.0,
-  "last_year_eps": 3.04,
-  "fiscal_q": "Sep/2026",
-  "avg_move": 4.68729313138977,
-  "beats": 3,
-  "n_hist": 4,
-  "history": [
-   {
-    "quarter": "Jun 2026",
-    "date": "2026-08-06",
-    "eps": 2.55,
-    "consensus": 2.36,
-    "surprise_pct": 8.05,
-    "reaction": 1.7991852745926407
-   },
-   {
-    "quarter": "Mar 2026",
-    "date": "2026-05-11",
-    "eps": 2.74,
-    "consensus": 2.56,
-    "surprise_pct": 7.03,
-    "reaction": -3.303362645324892
-   },
-   {
-    "quarter": "Dec 2025",
-    "date": "2026-02-24",
-    "eps": 2.3,
-    "consensus": 2.2,
-    "surprise_pct": 4.55,
-    "reaction": 10.905377808032668
-   },
-   {
-    "quarter": "Sep 2025",
-    "date": "2025-11-07",
-    "eps": 3.04,
-    "consensus": 3.13,
-    "surprise_pct": -2.88,
-    "reaction": 2.741246797608876
-   }
-  ],
-  "recent": null,
-  "eps_rev_1m_pct": -2.2556390977443663,
-  "eps_qtr_mean": 3.9
- },
- {
   "symbol": "NVDA",
   "next_date": "2026-11-17",
-  "days": 11,
+  "days": 8,
   "estimated": false,
   "time": "after",
   "eps_forecast": 2.49,
@@ -104,7 +53,7 @@
  {
   "symbol": "DELL",
   "next_date": "2026-11-24",
-  "days": 18,
+  "days": 15,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 6.41,
@@ -155,9 +104,9 @@
  {
   "symbol": "MRVL",
   "next_date": "2026-12-01",
-  "days": 25,
-  "estimated": true,
-  "time": "tbd",
+  "days": 22,
+  "estimated": false,
+  "time": "after",
   "eps_forecast": 0.79,
   "n_ests": 12.0,
   "last_year_eps": 0.62,
@@ -206,7 +155,7 @@
  {
   "symbol": "CRM",
   "next_date": "2026-12-02",
-  "days": 26,
+  "days": 23,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 2.41,
@@ -257,7 +206,7 @@
  {
   "symbol": "SNOW",
   "next_date": "2026-12-02",
-  "days": 26,
+  "days": 23,
   "estimated": false,
   "time": "after",
   "eps_forecast": -0.32,
@@ -308,7 +257,7 @@
  {
   "symbol": "ORCL",
   "next_date": "2026-12-09",
-  "days": 33,
+  "days": 30,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 1.56,
@@ -359,7 +308,7 @@
  {
   "symbol": "AVGO",
   "next_date": "2026-12-10",
-  "days": 34,
+  "days": 31,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 3.45,
@@ -410,7 +359,7 @@
  {
   "symbol": "MU",
   "next_date": "2026-12-16",
-  "days": 40,
+  "days": 37,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 37.93,
@@ -561,8 +510,8 @@
    "surprise_pct": 9.52,
    "reaction": 4.6996829748950475
   },
-  "eps_rev_1m_pct": 0.8695652173912993,
-  "eps_qtr_mean": 2.32
+  "eps_rev_1m_pct": 2.60869565217392,
+  "eps_qtr_mean": 2.36
  },
  {
   "symbol": "AMZN",
@@ -667,8 +616,8 @@
    "surprise_pct": 12.12,
    "reaction": 8.736444498598761
   },
-  "eps_rev_1m_pct": 0.0,
-  "eps_qtr_mean": 1.05
+  "eps_rev_1m_pct": 0.952380952380949,
+  "eps_qtr_mean": 1.06
  },
  {
   "symbol": "ARM",
@@ -768,6 +717,52 @@
   "recent": null,
   "eps_rev_1m_pct": 10.73954983922829,
   "eps_qtr_mean": 17.22
+ },
+ {
+  "symbol": "CEG",
+  "next_date": null,
+  "days": null,
+  "estimated": false,
+  "avg_move": 4.68729313138977,
+  "beats": 3,
+  "n_hist": 4,
+  "history": [
+   {
+    "quarter": "Jun 2026",
+    "date": "2026-08-06",
+    "eps": 2.55,
+    "consensus": 2.36,
+    "surprise_pct": 8.05,
+    "reaction": 1.7991852745926407
+   },
+   {
+    "quarter": "Mar 2026",
+    "date": "2026-05-11",
+    "eps": 2.74,
+    "consensus": 2.56,
+    "surprise_pct": 7.03,
+    "reaction": -3.303362645324892
+   },
+   {
+    "quarter": "Dec 2025",
+    "date": "2026-02-24",
+    "eps": 2.3,
+    "consensus": 2.2,
+    "surprise_pct": 4.55,
+    "reaction": 10.905377808032668
+   },
+   {
+    "quarter": "Sep 2025",
+    "date": "2025-11-07",
+    "eps": 3.04,
+    "consensus": 3.13,
+    "surprise_pct": -2.88,
+    "reaction": 2.741246797608876
+   }
+  ],
+  "recent": null,
+  "eps_rev_1m_pct": -2.2556390977443663,
+  "eps_qtr_mean": 3.9
  },
  {
   "symbol": "GOOGL",
@@ -1031,8 +1026,8 @@
    "surprise_pct": 0.0,
    "reaction": -4.730867416218565
   },
-  "eps_rev_1m_pct": 2.6315789473684292,
-  "eps_qtr_mean": 0.39
+  "eps_rev_1m_pct": 7.8947368421052655,
+  "eps_qtr_mean": 0.41
  },
  {
   "symbol": "SMCI",

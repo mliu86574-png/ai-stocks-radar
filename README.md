@@ -9,24 +9,24 @@ A daily, automated radar for US AI stocks: when each company reports, what the m
 ## Latest
 
 <!-- RADAR:START -->
-AI basket (equal weight): **-8.7%** on the day, **+25.2%** YTD vs QQQ +5.3%.
+AI basket (equal weight): **+3.0%** on the day, **+28.9%** YTD vs QQQ +6.8%.
 
 **Next earnings**
 
 | Date | Company | Timing | EPS consensus | Typical move |
 |---|---|---|---:|---:|
-| 2026-11-09 | CEG | before open | 3.90 | ±4.7% |
 | 2026-11-17 | NVDA | after close | 2.49 | ±3.0% |
 | 2026-11-24 | DELL | TBC | 6.41 | ±17.6% |
-| 2026-12-01 | MRVL | TBC | 0.79 | ±9.5% |
+| 2026-12-01 | MRVL | after close | 0.79 | ±9.5% |
 | 2026-12-02 | CRM | TBC | 2.41 | ±9.3% |
 | 2026-12-02 | SNOW | after close | -0.32 | ±15.8% |
 | 2026-12-09 | ORCL | TBC | 1.56 | ±8.9% |
 | 2026-12-10 | AVGO | TBC | 3.45 | ±8.8% |
+| 2026-12-16 | MU | TBC | 37.93 | ±7.3% |
 
-**Volume-based flow signals:** inflow none; outflow NVDA, AMD, AVGO, TSM, ASML, MU, ARM, MRVL, MSFT, GOOGL, META, AAPL, ORCL, PLTR, NOW, CRM, SNOW, ANET, DELL, SMCI, VRT, CEG.
+**Volume-based flow signals:** inflow none; outflow NVDA, AVGO, TSM, ASML, MU, ARM, MRVL, MSFT, GOOGL, AMZN, META, AAPL, ORCL, PLTR, NOW, CRM, SNOW, ANET, DELL, SMCI, VRT, CEG.
 
-_Last updated 2026-11-06 22:29 UTC._
+_Last updated 2026-11-09 14:00 UTC._
 <!-- RADAR:END -->
 
 ## What it covers
