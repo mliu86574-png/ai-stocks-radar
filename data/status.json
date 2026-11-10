@@ -1,65 +1,65 @@
 {
- "updated": "2026-11-09 22:33",
+ "updated": "2026-11-10 13:44",
  "sources": [
   {
    "source": "Yahoo Finance",
    "item": "daily prices",
-   "ok": "ok",
-   "note": "30 ok"
+   "ok": "failed",
+   "note": "0 ok; failed: NVDA, AMD, AVGO, TSM, ASML, MU, ARM, MRVL, MSFT, GOOGL, AMZN, META, AAPL, ORCL, PLTR, NOW, CRM, SNOW, ANET, DELL, SMCI, VRT, CEG, QQQ, SPY, SMH, SOXX, IGV, AIQ, BOTZ"
   },
   {
    "source": "Nasdaq.com",
    "item": "earnings_date",
-   "ok": "ok",
-   "note": "23 fresh, 0 cached, 0 missing"
+   "ok": "cached",
+   "note": "0 fresh, 23 cached, 0 missing"
   },
   {
    "source": "Nasdaq.com",
    "item": "surprises",
-   "ok": "ok",
-   "note": "23 fresh, 0 cached, 0 missing"
+   "ok": "cached",
+   "note": "0 fresh, 23 cached, 0 missing"
   },
   {
    "source": "Nasdaq.com",
    "item": "institutional",
-   "ok": "ok",
-   "note": "23 fresh, 0 cached, 0 missing"
+   "ok": "cached",
+   "note": "0 fresh, 23 cached, 0 missing"
   },
   {
    "source": "Nasdaq.com",
    "item": "insider",
-   "ok": "ok",
-   "note": "23 fresh, 0 cached, 0 missing"
+   "ok": "cached",
+   "note": "0 fresh, 23 cached, 0 missing"
   },
   {
    "source": "Nasdaq.com",
    "item": "short",
    "ok": "cached",
-   "note": "15 fresh, 0 cached, 8 missing"
+   "note": "0 fresh, 15 cached, 8 missing"
   },
   {
    "source": "Nasdaq.com",
    "item": "summary",
-   "ok": "ok",
-   "note": "23 fresh, 0 cached, 0 missing"
+   "ok": "cached",
+   "note": "0 fresh, 23 cached, 0 missing"
   },
   {
    "source": "Nasdaq.com",
    "item": "ratings",
-   "ok": "ok",
-   "note": "23 fresh, 0 cached, 0 missing"
+   "ok": "cached",
+   "note": "0 fresh, 23 cached, 0 missing"
   },
   {
    "source": "Nasdaq.com",
    "item": "momentum",
-   "ok": "ok",
-   "note": "23 fresh, 0 cached, 0 missing"
+   "ok": "cached",
+   "note": "0 fresh, 23 cached, 0 missing"
   },
   {
    "source": "Nasdaq.com",
    "item": "earnings calendar",
-   "ok": "ok",
-   "note": "7 dates fresh, 0 from cache"
+   "ok": "cached",
+   "note": "0 dates fresh, 7 from cache"
   }
  ]
 }
