@@ -26,7 +26,7 @@ AI basket (equal weight): **–** on the day, **–** YTD vs QQQ –.
 
 **Volume-based flow signals:** inflow none; outflow none.
 
-_Last updated 2026-11-11 13:50 UTC._
+_Last updated 2026-11-11 22:39 UTC._
 <!-- RADAR:END -->
 
 ## What it covers
