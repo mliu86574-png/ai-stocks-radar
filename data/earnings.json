@@ -2,7 +2,7 @@
  {
   "symbol": "NVDA",
   "next_date": "2026-11-17",
-  "days": 7,
+  "days": 6,
   "estimated": false,
   "time": "after",
   "eps_forecast": 2.49,
@@ -53,7 +53,7 @@
  {
   "symbol": "DELL",
   "next_date": "2026-11-24",
-  "days": 14,
+  "days": 13,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 6.41,
@@ -104,7 +104,7 @@
  {
   "symbol": "MRVL",
   "next_date": "2026-12-01",
-  "days": 21,
+  "days": 20,
   "estimated": false,
   "time": "after",
   "eps_forecast": 0.79,
@@ -155,7 +155,7 @@
  {
   "symbol": "CRM",
   "next_date": "2026-12-02",
-  "days": 22,
+  "days": 21,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 2.41,
@@ -206,7 +206,7 @@
  {
   "symbol": "SNOW",
   "next_date": "2026-12-02",
-  "days": 22,
+  "days": 21,
   "estimated": false,
   "time": "after",
   "eps_forecast": -0.32,
@@ -257,7 +257,7 @@
  {
   "symbol": "ORCL",
   "next_date": "2026-12-09",
-  "days": 29,
+  "days": 28,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 1.56,
@@ -308,7 +308,7 @@
  {
   "symbol": "AVGO",
   "next_date": "2026-12-10",
-  "days": 30,
+  "days": 29,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 3.45,
@@ -359,7 +359,7 @@
  {
   "symbol": "MU",
   "next_date": "2026-12-16",
-  "days": 36,
+  "days": 35,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 37.93,
