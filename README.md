@@ -9,7 +9,7 @@ A daily, automated radar for US AI stocks: when each company reports, what the m
 ## Latest
 
 <!-- RADAR:START -->
-AI basket (equal weight): **-0.4%** on the day, **+39.7%** YTD vs QQQ +12.0%.
+AI basket (equal weight): **-2.1%** on the day, **+36.8%** YTD vs QQQ +10.7%.
 
 **Next earnings**
 
@@ -24,9 +24,9 @@ AI basket (equal weight): **-0.4%** on the day, **+39.7%** YTD vs QQQ +12.0%.
 | 2026-12-09 | ORCL | TBC | 1.56 | ±8.9% |
 | 2026-12-16 | MU | TBC | 37.95 | ±7.3% |
 
-**Volume-based flow signals:** inflow none; outflow NVDA, ARM, MRVL, MSFT, GOOGL, META, ORCL, PLTR, NOW, DELL, SMCI.
+**Volume-based flow signals:** inflow none; outflow NVDA, ARM, MRVL, MSFT, GOOGL, META, ORCL, NOW, DELL, SMCI.
 
-_Last updated 2026-11-13 22:33 UTC._
+_Last updated 2026-11-16 15:47 UTC._
 <!-- RADAR:END -->
 
 ## What it covers
