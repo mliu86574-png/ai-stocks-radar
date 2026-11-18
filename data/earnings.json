@@ -2,7 +2,7 @@
  {
   "symbol": "DELL",
   "next_date": "2026-11-24",
-  "days": 7,
+  "days": 6,
   "estimated": false,
   "time": "after",
   "eps_forecast": 6.41,
@@ -53,7 +53,7 @@
  {
   "symbol": "MRVL",
   "next_date": "2026-12-01",
-  "days": 14,
+  "days": 13,
   "estimated": false,
   "time": "after",
   "eps_forecast": 0.79,
@@ -104,7 +104,7 @@
  {
   "symbol": "CRM",
   "next_date": "2026-12-02",
-  "days": 15,
+  "days": 14,
   "estimated": false,
   "time": "after",
   "eps_forecast": 2.41,
@@ -155,7 +155,7 @@
  {
   "symbol": "SNOW",
   "next_date": "2026-12-02",
-  "days": 15,
+  "days": 14,
   "estimated": false,
   "time": "after",
   "eps_forecast": -0.32,
@@ -206,10 +206,10 @@
  {
   "symbol": "AVGO",
   "next_date": "2026-12-09",
-  "days": 22,
+  "days": 21,
   "estimated": false,
   "time": "after",
-  "eps_forecast": 3.47,
+  "eps_forecast": 3.45,
   "n_ests": 10.0,
   "last_year_eps": 1.61,
   "fiscal_q": "Oct/2026",
@@ -251,13 +251,13 @@
    }
   ],
   "recent": null,
-  "eps_rev_1m_pct": 0.5797101449275477,
-  "eps_qtr_mean": 3.47
+  "eps_rev_1m_pct": 0.0,
+  "eps_qtr_mean": 3.45
  },
  {
   "symbol": "ORCL",
   "next_date": "2026-12-09",
-  "days": 22,
+  "days": 21,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 1.56,
@@ -308,7 +308,7 @@
  {
   "symbol": "MU",
   "next_date": "2026-12-16",
-  "days": 29,
+  "days": 28,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 37.95,
@@ -664,7 +664,7 @@
    }
   ],
   "recent": null,
-  "eps_rev_1m_pct": 0.17452006980800405,
+  "eps_rev_1m_pct": 0.0,
   "eps_qtr_mean": 17.22
  },
  {
@@ -816,7 +816,7 @@
    }
   ],
   "recent": null,
-  "eps_rev_1m_pct": -0.1223990208078285,
+  "eps_rev_1m_pct": -0.3663003663003539,
   "eps_qtr_mean": 8.16
  },
  {
@@ -930,10 +930,18 @@
   "next_date": null,
   "days": null,
   "estimated": false,
-  "avg_move": 3.007730712935677,
+  "avg_move": 3.8779741368770306,
   "beats": 4,
   "n_hist": 4,
   "history": [
+   {
+    "quarter": "Oct 2026",
+    "date": "2026-11-17",
+    "eps": 2.68,
+    "consensus": 2.47,
+    "surprise_pct": 8.5,
+    "reaction": null
+   },
    {
     "quarter": "Jul 2026",
     "date": "2026-08-26",
@@ -957,19 +965,18 @@
     "consensus": 1.45,
     "surprise_pct": 8.28,
     "reaction": -4.127560280010378
-   },
-   {
-    "quarter": "Oct 2025",
-    "date": "2025-11-19",
-    "eps": 1.24,
-    "consensus": 1.18,
-    "surprise_pct": 5.08,
-    "reaction": -0.3970004411116168
    }
   ],
-  "recent": null,
-  "eps_rev_1m_pct": 0.0,
-  "eps_qtr_mean": 2.49
+  "recent": {
+   "quarter": "Oct 2026",
+   "date": "2026-11-17",
+   "eps": 2.68,
+   "consensus": 2.47,
+   "surprise_pct": 8.5,
+   "reaction": null
+  },
+  "eps_rev_1m_pct": -0.7299270072992692,
+  "eps_qtr_mean": 2.72
  },
  {
   "symbol": "PLTR",
