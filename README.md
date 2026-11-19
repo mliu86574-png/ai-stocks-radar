@@ -9,13 +9,13 @@ A daily, automated radar for US AI stocks: when each company reports, what the m
 ## Latest
 
 <!-- RADAR:START -->
-AI basket (equal weight): **-1.4%** on the day, **+28.7%** YTD vs QQQ +6.9%.
+AI basket (equal weight): **+0.4%** on the day, **+29.2%** YTD vs QQQ +7.4%.
 
 **Next earnings**
 
 | Date | Company | Timing | EPS consensus | Typical move |
 |---|---|---|---:|---:|
-| 2026-11-24 | DELL | after close | 6.41 | ±17.6% |
+| 2026-11-24 | DELL | after close | 6.48 | ±17.6% |
 | 2026-12-01 | MRVL | after close | 0.79 | ±9.5% |
 | 2026-12-02 | CRM | after close | 2.41 | ±9.3% |
 | 2026-12-02 | SNOW | after close | -0.32 | ±15.8% |
@@ -23,9 +23,9 @@ AI basket (equal weight): **-1.4%** on the day, **+28.7%** YTD vs QQQ +6.9%.
 | 2026-12-09 | ORCL | TBC | 1.56 | ±8.9% |
 | 2026-12-16 | MU | TBC | 37.95 | ±7.3% |
 
-**Volume-based flow signals:** inflow none; outflow NVDA, TSM, ASML, MU, ARM, MRVL, MSFT, GOOGL, META, ORCL, PLTR, NOW, CRM, SNOW, DELL, SMCI, VRT.
+**Volume-based flow signals:** inflow none; outflow NVDA, TSM, ASML, MU, ARM, MRVL, MSFT, GOOGL, META, ORCL, PLTR, NOW, CRM, SNOW, DELL, SMCI.
 
-_Last updated 2026-11-18 22:38 UTC._
+_Last updated 2026-11-19 14:02 UTC._
 <!-- RADAR:END -->
 
 ## What it covers

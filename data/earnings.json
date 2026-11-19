@@ -2,10 +2,10 @@
  {
   "symbol": "DELL",
   "next_date": "2026-11-24",
-  "days": 6,
+  "days": 5,
   "estimated": false,
   "time": "after",
-  "eps_forecast": 6.41,
+  "eps_forecast": 6.48,
   "n_ests": 8.0,
   "last_year_eps": 2.35,
   "fiscal_q": "Oct/2026",
@@ -47,13 +47,13 @@
    }
   ],
   "recent": null,
-  "eps_rev_1m_pct": 0.0,
-  "eps_qtr_mean": 6.41
+  "eps_rev_1m_pct": 1.0920436817472678,
+  "eps_qtr_mean": 6.48
  },
  {
   "symbol": "MRVL",
   "next_date": "2026-12-01",
-  "days": 13,
+  "days": 12,
   "estimated": false,
   "time": "after",
   "eps_forecast": 0.79,
@@ -104,7 +104,7 @@
  {
   "symbol": "CRM",
   "next_date": "2026-12-02",
-  "days": 14,
+  "days": 13,
   "estimated": false,
   "time": "after",
   "eps_forecast": 2.41,
@@ -155,7 +155,7 @@
  {
   "symbol": "SNOW",
   "next_date": "2026-12-02",
-  "days": 14,
+  "days": 13,
   "estimated": false,
   "time": "after",
   "eps_forecast": -0.32,
@@ -206,7 +206,7 @@
  {
   "symbol": "AVGO",
   "next_date": "2026-12-09",
-  "days": 21,
+  "days": 20,
   "estimated": false,
   "time": "after",
   "eps_forecast": 3.45,
@@ -257,7 +257,7 @@
  {
   "symbol": "ORCL",
   "next_date": "2026-12-09",
-  "days": 21,
+  "days": 20,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 1.56,
@@ -308,7 +308,7 @@
  {
   "symbol": "MU",
   "next_date": "2026-12-16",
-  "days": 28,
+  "days": 27,
   "estimated": true,
   "time": "tbd",
   "eps_forecast": 37.95,
@@ -762,14 +762,7 @@
     "reaction": -2.490359424214761
    }
   ],
-  "recent": {
-   "quarter": "Sep 2026",
-   "date": "2026-10-28",
-   "eps": 2.12,
-   "consensus": 2.94,
-   "surprise_pct": -27.89,
-   "reaction": -11.466716576205627
-  },
+  "recent": null,
   "eps_rev_1m_pct": -3.384615384615386,
   "eps_qtr_mean": 3.14
  },
@@ -816,7 +809,7 @@
    }
   ],
   "recent": null,
-  "eps_rev_1m_pct": -0.3663003663003539,
+  "eps_rev_1m_pct": -0.24449877750610804,
   "eps_qtr_mean": 8.16
  },
  {
@@ -861,14 +854,7 @@
     "reaction": -9.79649590078655
    }
   ],
-  "recent": {
-   "quarter": "Sep 2026",
-   "date": "2026-10-28",
-   "eps": 4.89,
-   "consensus": 4.71,
-   "surprise_pct": 3.82,
-   "reaction": -0.22396627331414676
-  },
+  "recent": null,
   "eps_rev_1m_pct": 0.4132231404958775,
   "eps_qtr_mean": 4.86
  },
@@ -914,14 +900,7 @@
     "reaction": -11.43399089529591
    }
   ],
-  "recent": {
-   "quarter": "Sep 2026",
-   "date": "2026-10-28",
-   "eps": 0.51,
-   "consensus": 0.56,
-   "surprise_pct": -8.93,
-   "reaction": -29.144592324589734
-  },
+  "recent": null,
   "eps_rev_1m_pct": -8.695652173913038,
   "eps_qtr_mean": 0.63
  },
@@ -930,7 +909,7 @@
   "next_date": null,
   "days": null,
   "estimated": false,
-  "avg_move": 3.8779741368770306,
+  "avg_move": 3.737863963920521,
   "beats": 4,
   "n_hist": 4,
   "history": [
@@ -940,7 +919,7 @@
     "eps": 2.68,
     "consensus": 2.47,
     "surprise_pct": 8.5,
-    "reaction": null
+    "reaction": -3.317530867189611
    },
    {
     "quarter": "Jul 2026",
@@ -948,7 +927,7 @@
     "eps": 2.22,
     "consensus": 2.09,
     "surprise_pct": 6.22,
-    "reaction": 7.007744660877724
+    "reaction": 7.007741122704503
    },
    {
     "quarter": "Apr 2026",
@@ -956,7 +935,7 @@
     "eps": 1.87,
     "consensus": 1.7,
     "surprise_pct": 10.0,
-    "reaction": -0.49861746974299015
+    "reaction": -0.49862023501757724
    },
    {
     "quarter": "Jan 2026",
@@ -964,7 +943,7 @@
     "eps": 1.57,
     "consensus": 1.45,
     "surprise_pct": 8.28,
-    "reaction": -4.127560280010378
+    "reaction": -4.127563630770393
    }
   ],
   "recent": {
@@ -973,10 +952,10 @@
    "eps": 2.68,
    "consensus": 2.47,
    "surprise_pct": 8.5,
-   "reaction": null
+   "reaction": -3.317530867189611
   },
-  "eps_rev_1m_pct": -0.7299270072992692,
-  "eps_qtr_mean": 2.72
+  "eps_rev_1m_pct": 1.8248175182481674,
+  "eps_qtr_mean": 2.79
  },
  {
   "symbol": "PLTR",
@@ -1172,14 +1151,7 @@
     "reaction": 18.48011221320509
    }
   ],
-  "recent": {
-   "quarter": "Sep 2026",
-   "date": "2026-10-28",
-   "eps": 2.21,
-   "consensus": 1.82,
-   "surprise_pct": 21.43,
-   "reaction": 17.913310318373597
-  },
+  "recent": null,
   "eps_rev_1m_pct": 3.6363636363636154,
   "eps_qtr_mean": 2.28
  }
