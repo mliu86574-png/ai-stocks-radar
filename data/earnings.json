@@ -909,7 +909,7 @@
   "next_date": null,
   "days": null,
   "estimated": false,
-  "avg_move": 3.737863963920521,
+  "avg_move": 3.737864488913695,
   "beats": 4,
   "n_hist": 4,
   "history": [
@@ -919,7 +919,7 @@
     "eps": 2.68,
     "consensus": 2.47,
     "surprise_pct": 8.5,
-    "reaction": -3.317530867189611
+    "reaction": -3.3175355450236865
    },
    {
     "quarter": "Jul 2026",
@@ -927,7 +927,7 @@
     "eps": 2.22,
     "consensus": 2.09,
     "surprise_pct": 6.22,
-    "reaction": 7.007741122704503
+    "reaction": 7.007744660877724
    },
    {
     "quarter": "Apr 2026",
@@ -935,7 +935,7 @@
     "eps": 1.87,
     "consensus": 1.7,
     "surprise_pct": 10.0,
-    "reaction": -0.49862023501757724
+    "reaction": -0.49861746974299015
    },
    {
     "quarter": "Jan 2026",
@@ -943,7 +943,7 @@
     "eps": 1.57,
     "consensus": 1.45,
     "surprise_pct": 8.28,
-    "reaction": -4.127563630770393
+    "reaction": -4.127560280010378
    }
   ],
   "recent": {
@@ -952,7 +952,7 @@
    "eps": 2.68,
    "consensus": 2.47,
    "surprise_pct": 8.5,
-   "reaction": -3.317530867189611
+   "reaction": -3.3175355450236865
   },
   "eps_rev_1m_pct": 1.8248175182481674,
   "eps_qtr_mean": 2.79
