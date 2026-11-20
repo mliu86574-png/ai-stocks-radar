@@ -15,7 +15,7 @@ AI basket (equal weight): **-3.1%** on the day, **+25.3%** YTD vs QQQ +5.0%.
 
 | Date | Company | Timing | EPS consensus | Typical move |
 |---|---|---|---:|---:|
-| 2026-11-24 | DELL | after close | 6.48 | ±17.6% |
+| 2026-11-24 | DELL | after close | 6.55 | ±17.6% |
 | 2026-12-01 | MRVL | after close | 0.79 | ±9.5% |
 | 2026-12-02 | CRM | after close | 2.41 | ±9.3% |
 | 2026-12-02 | SNOW | after close | -0.32 | ±15.8% |
@@ -25,7 +25,7 @@ AI basket (equal weight): **-3.1%** on the day, **+25.3%** YTD vs QQQ +5.0%.
 
 **Volume-based flow signals:** inflow AVGO; outflow NVDA, TSM, ASML, MU, ARM, MRVL, MSFT, GOOGL, META, AAPL, ORCL, PLTR, NOW, CRM, DELL, SMCI.
 
-_Last updated 2026-11-20 14:01 UTC._
+_Last updated 2026-11-20 22:35 UTC._
 <!-- RADAR:END -->
 
 ## What it covers
