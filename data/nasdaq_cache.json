@@ -5,7 +5,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -38,7 +38,7 @@
      "surprise_pct": 8.28
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -48,10 +48,10 @@
     "dec_holders": 2650.0,
     "new_holders": 259.0,
     "soldout_holders": 131.0,
-    "net_shares": 390217627.0,
-    "net_pct": 2.0285860825270077
+    "net_shares": 390197485.0,
+    "net_pct": 2.028481372288292
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
@@ -60,7 +60,7 @@
     "net_shares_3m": -6257764.0,
     "net_shares_12m": -52969477.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -69,28 +69,28 @@
     "days_to_cover": 2.797471,
     "si_change_pct": -7.3081976091539875
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 3090825000000.0,
+    "market_cap": 3979722170000.0,
     "target_1y": 230.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
-    "eps_qtr_mean": 2.84,
-    "eps_rev_1m_pct": 3.649635036496335
+    "eps_qtr_mean": 2.87,
+    "eps_rev_1m_pct": 4.744525547445244
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "AMD": {
@@ -99,7 +99,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -132,7 +132,7 @@
      "surprise_pct": 11.71
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -140,21 +140,21 @@
     "inst_shares": 1359438470.0,
     "inc_holders": 2052.0,
     "dec_holders": 1926.0,
-    "new_holders": 345.0,
+    "new_holders": 346.0,
     "soldout_holders": 177.0,
-    "net_shares": 26128511.0,
-    "net_pct": 1.9220076212791006
+    "net_shares": 26131887.0,
+    "net_pct": 1.9222559591093518
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
     "buys_3m": 1.0,
-    "sells_3m": 20.0,
-    "net_shares_3m": -317028.0,
+    "sells_3m": 19.0,
+    "net_shares_3m": -299767.0,
     "net_shares_12m": -1844925.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -163,28 +163,28 @@
     "days_to_cover": 1.855814,
     "si_change_pct": 1.2762444342111712
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 702393278525.0,
+    "market_cap": 755802244566.0,
     "target_1y": 650.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 2.59,
     "eps_rev_1m_pct": 13.596491228070185
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "AVGO": {
@@ -193,7 +193,7 @@
     "date": "2026-12-09",
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -226,7 +226,7 @@
      "surprise_pct": 8.05
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -234,12 +234,12 @@
     "inst_shares": 4231984882.0,
     "inc_holders": 2718.0,
     "dec_holders": 2131.0,
-    "new_holders": 237.0,
+    "new_holders": 236.0,
     "soldout_holders": 191.0,
-    "net_shares": 28763516.0,
-    "net_pct": 0.6796696302564911
+    "net_shares": 28744163.0,
+    "net_pct": 0.6792123271105769
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
@@ -248,7 +248,7 @@
     "net_shares_3m": -784277.0,
     "net_shares_12m": -3688245.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -257,28 +257,28 @@
     "days_to_cover": 2.364666,
     "si_change_pct": -3.110773354983487
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 1453140667205.0,
+    "market_cap": 1492809531383.0,
     "target_1y": 517.5
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 3.45,
     "eps_rev_1m_pct": 0.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "TSM": {
@@ -287,7 +287,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -320,50 +320,50 @@
      "surprise_pct": 11.35
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
     "inst_pct": 14.95,
     "inst_shares": 775146353.0,
-    "inc_holders": 1853.0,
-    "dec_holders": 1586.0,
-    "new_holders": 246.0,
+    "inc_holders": 1852.0,
+    "dec_holders": 1587.0,
+    "new_holders": 245.0,
     "soldout_holders": 156.0,
-    "net_shares": 10522891.0,
-    "net_pct": 1.357536026490213
+    "net_shares": 10514874.0,
+    "net_pct": 1.3565017701889388
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
-    "buys_3m": 114.0,
+    "buys_3m": 115.0,
     "sells_3m": 0.0,
-    "net_shares_3m": 500720.0,
-    "net_shares_12m": -661474.0
+    "net_shares_3m": 505720.0,
+    "net_shares_12m": -656474.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 1656258476043.0,
+    "market_cap": 1893932656522.0,
     "target_1y": 540.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 5.17,
     "eps_rev_1m_pct": -0.9578544061302652
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "ASML": {
@@ -372,7 +372,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -405,7 +405,7 @@
      "surprise_pct": -5.11
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -413,12 +413,12 @@
     "inst_shares": 75029929.0,
     "inc_holders": 1261.0,
     "dec_holders": 1124.0,
-    "new_holders": 203.0,
+    "new_holders": 202.0,
     "soldout_holders": 197.0,
-    "net_shares": -1567320.0,
-    "net_pct": -2.088926406954217
+    "net_shares": -1567906.0,
+    "net_pct": -2.0897074286182518
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
@@ -427,7 +427,7 @@
     "net_shares_3m": 0.0,
     "net_shares_12m": 0.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -436,37 +436,37 @@
     "days_to_cover": 1.0,
     "si_change_pct": -13.90871308050241
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Industrial Machinery/Components",
-    "market_cap": 488023555776.0,
+    "market_cap": 543666304072.0,
     "target_1y": 2225.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 17.22,
     "eps_rev_1m_pct": 0.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "MU": {
   "earnings_date": {
    "value": {
-    "date": "2026-12-16",
-    "estimated": true
+    "date": "2026-12-17",
+    "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -499,7 +499,7 @@
      "surprise_pct": 25.61
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -509,10 +509,10 @@
     "dec_holders": 1583.0,
     "new_holders": 396.0,
     "soldout_holders": 203.0,
-    "net_shares": -4487476.0,
-    "net_pct": -0.45123629178795455
+    "net_shares": -4487271.0,
+    "net_pct": -0.4512156780978052
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
@@ -521,7 +521,7 @@
     "net_shares_3m": -340581.0,
     "net_shares_12m": -765607.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -530,28 +530,28 @@
     "days_to_cover": 1.0,
     "si_change_pct": 3.7782630276917084
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 672642413766.0,
+    "market_cap": 789812601601.0,
     "target_1y": 1500.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 37.95,
     "eps_rev_1m_pct": 0.052728710783034316
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "ARM": {
@@ -560,7 +560,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -593,7 +593,7 @@
      "surprise_pct": 0.0
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -606,7 +606,7 @@
     "net_shares": -4586018.0,
     "net_pct": -4.752202472957292
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
@@ -615,7 +615,7 @@
     "net_shares_3m": -84185.0,
     "net_shares_12m": -191475.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -624,28 +624,28 @@
     "days_to_cover": 3.331878,
     "si_change_pct": -10.914050947731758
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 161949209354.0,
+    "market_cap": 190976636629.0,
     "target_1y": 255.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 0.29,
     "eps_rev_1m_pct": -3.3333333333333326
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "MRVL": {
@@ -654,7 +654,7 @@
     "date": "2026-12-01",
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -687,7 +687,7 @@
      "surprise_pct": 6.9
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -695,12 +695,12 @@
     "inst_shares": 769967140.0,
     "inc_holders": 1439.0,
     "dec_holders": 945.0,
-    "new_holders": 329.0,
+    "new_holders": 328.0,
     "soldout_holders": 201.0,
-    "net_shares": 3155938.0,
-    "net_pct": 0.40987956966579114
+    "net_shares": 3153340.0,
+    "net_pct": 0.4095421526690087
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
@@ -709,7 +709,7 @@
     "net_shares_3m": -86125.0,
     "net_shares_12m": -1481133.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -718,28 +718,28 @@
     "days_to_cover": 1.213534,
     "si_change_pct": 6.0979128141037675
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Semiconductors",
-    "market_cap": 107227332000.0,
+    "market_cap": 126282369000.0,
     "target_1y": 300.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 0.79,
     "eps_rev_1m_pct": 0.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "MSFT": {
@@ -748,7 +748,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -781,7 +781,7 @@
      "surprise_pct": 6.7
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -791,19 +791,19 @@
     "dec_holders": 3079.0,
     "new_holders": 304.0,
     "soldout_holders": 113.0,
-    "net_shares": 177341792.0,
-    "net_pct": 2.7933110847802327
+    "net_shares": 177335992.0,
+    "net_pct": 2.7932197289632597
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
     "buys_3m": 14.0,
     "sells_3m": 18.0,
     "net_shares_3m": 91279.0,
-    "net_shares_12m": 13132.0
+    "net_shares_12m": 16595.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -812,28 +812,28 @@
     "days_to_cover": 2.733751,
     "si_change_pct": -7.207087822457636
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Computer Software: Prepackaged Software",
-    "market_cap": 3598139784335.0,
+    "market_cap": 3767156259241.0,
     "target_1y": 630.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 4.86,
     "eps_rev_1m_pct": 0.4132231404958775
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "GOOGL": {
@@ -842,7 +842,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -875,20 +875,20 @@
      "surprise_pct": 9.73
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
     "inst_pct": 89.81,
     "inst_shares": 5269841399.0,
     "inc_holders": 2896.0,
-    "dec_holders": 2713.0,
+    "dec_holders": 2712.0,
     "new_holders": 213.0,
-    "soldout_holders": 147.0,
-    "net_shares": 17854068.0,
-    "net_pct": 0.3387970651903864
+    "soldout_holders": 146.0,
+    "net_shares": 17849857.0,
+    "net_pct": 0.3387171576622243
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
@@ -897,7 +897,7 @@
     "net_shares_3m": -520715.0,
     "net_shares_12m": -3155123.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -906,28 +906,28 @@
     "days_to_cover": 2.11844,
     "si_change_pct": 11.71052767625278
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Computer Software: Programming, Data Processing",
-    "market_cap": 3261475260000.0,
+    "market_cap": 3453930453600.0,
     "target_1y": 400.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 3.14,
     "eps_rev_1m_pct": -3.384615384615386
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "AMZN": {
@@ -936,7 +936,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -969,7 +969,7 @@
      "surprise_pct": -1.52
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -979,19 +979,19 @@
     "dec_holders": 2649.0,
     "new_holders": 224.0,
     "soldout_holders": 107.0,
-    "net_shares": 148278602.0,
-    "net_pct": 1.8055809584805762
+    "net_shares": 148275674.0,
+    "net_pct": 1.8055453043742176
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
     "buys_3m": 0.0,
     "sells_3m": 9.0,
-    "net_shares_3m": -1203071.0,
-    "net_shares_12m": -4089785.0
+    "net_shares_3m": -1194596.0,
+    "net_shares_12m": -4035061.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -1000,28 +1000,28 @@
     "days_to_cover": 2.000997,
     "si_change_pct": 0.7494672093895094
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Catalog/Specialty Distribution",
-    "market_cap": 2668898796687.0,
+    "market_cap": 2779783204760.0,
     "target_1y": 330.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 2.47,
-    "eps_rev_1m_pct": -3.515624999999989
+    "eps_rev_1m_pct": -3.137254901960773
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "META": {
@@ -1030,7 +1030,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -1063,7 +1063,7 @@
      "surprise_pct": 8.16
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -1073,19 +1073,19 @@
     "dec_holders": 2340.0,
     "new_holders": 412.0,
     "soldout_holders": 145.0,
-    "net_shares": 56499686.0,
-    "net_pct": 2.900820027513245
+    "net_shares": 56499707.0,
+    "net_pct": 2.900821105700132
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
     "buys_3m": 2.0,
-    "sells_3m": 40.0,
-    "net_shares_3m": -172956.0,
-    "net_shares_12m": 90296.0
+    "sells_3m": 43.0,
+    "net_shares_3m": -191558.0,
+    "net_shares_12m": 71694.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -1094,28 +1094,28 @@
     "days_to_cover": 2.714001,
     "si_change_pct": 165.61933654449712
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Computer Software: Programming, Data Processing",
-    "market_cap": 1433642344333.0,
+    "market_cap": 1515799938204.0,
     "target_1y": 850.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 8.16,
-    "eps_rev_1m_pct": -0.24449877750610804
+    "eps_rev_1m_pct": 0.6165228113440335
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "AAPL": {
@@ -1124,7 +1124,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -1157,29 +1157,29 @@
      "surprise_pct": 7.17
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
     "inst_pct": 76.83,
-    "inst_shares": 11164892136.0,
+    "inst_shares": 11164892108.0,
     "inc_holders": 2693.0,
     "dec_holders": 3432.0,
     "new_holders": 187.0,
     "soldout_holders": 87.0,
-    "net_shares": 81771272.0,
-    "net_pct": 0.7323964352180106
+    "net_shares": 81763063.0,
+    "net_pct": 0.7323229119376279
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
     "buys_3m": 0.0,
-    "sells_3m": 27.0,
-    "net_shares_3m": -834404.0,
-    "net_shares_12m": -1495104.0
+    "sells_3m": 28.0,
+    "net_shares_3m": -836802.0,
+    "net_shares_12m": -1497502.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -1188,28 +1188,28 @@
     "days_to_cover": 3.360595,
     "si_change_pct": 10.030716564431996
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Computer Manufacturing",
-    "market_cap": 4978144265920.0,
+    "market_cap": 5057652740078.0,
     "target_1y": 360.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Hold"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 2.94,
     "eps_rev_1m_pct": 1.0309278350515427
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "ORCL": {
@@ -1218,7 +1218,7 @@
     "date": "2026-12-14",
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -1251,7 +1251,7 @@
      "surprise_pct": 51.16
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -1261,10 +1261,10 @@
     "dec_holders": 1866.0,
     "new_holders": 230.0,
     "soldout_holders": 263.0,
-    "net_shares": 123987776.0,
-    "net_pct": 8.002978986959766
+    "net_shares": 123985959.0,
+    "net_pct": 8.002861705939909
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
@@ -1273,28 +1273,28 @@
     "net_shares_3m": -290304.0,
     "net_shares_12m": -606144.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Computer Software: Prepackaged Software",
-    "market_cap": 305911371120.0,
+    "market_cap": 346217772000.0,
     "target_1y": 225.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 1.56,
     "eps_rev_1m_pct": -0.6369426751592355
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "PLTR": {
@@ -1303,7 +1303,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -1336,7 +1336,7 @@
      "surprise_pct": 41.18
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -1346,19 +1346,19 @@
     "dec_holders": 1241.0,
     "new_holders": 559.0,
     "soldout_holders": 141.0,
-    "net_shares": 87008857.0,
-    "net_pct": 5.044997515945341
+    "net_shares": 87004099.0,
+    "net_pct": 5.044721634856812
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
     "buys_3m": 7.0,
     "sells_3m": 11.0,
     "net_shares_3m": 1096999.0,
-    "net_shares_12m": -1734304.0
+    "net_shares_12m": -1694096.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -1367,28 +1367,28 @@
     "days_to_cover": 2.604636,
     "si_change_pct": -0.3329319134180886
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Computer Software: Prepackaged Software",
-    "market_cap": 345738792544.0,
+    "market_cap": 376819864260.0,
     "target_1y": 245.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 0.41,
     "eps_rev_1m_pct": 7.8947368421052655
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "NOW": {
@@ -1397,7 +1397,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -1430,7 +1430,7 @@
      "surprise_pct": 8.33
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -1443,7 +1443,7 @@
     "net_shares": 28090776.0,
     "net_pct": 2.930254931697963
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
@@ -1452,28 +1452,28 @@
     "net_shares_3m": -60591.0,
     "net_shares_12m": -339077.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Computer Software: Prepackaged Software",
-    "market_cap": 90959940000.0,
+    "market_cap": 95143080000.0,
     "target_1y": 160.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 0.63,
     "eps_rev_1m_pct": -8.695652173913038
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "CRM": {
@@ -1482,7 +1482,7 @@
     "date": "2026-12-02",
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -1515,7 +1515,7 @@
      "surprise_pct": 23.72
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -1528,37 +1528,37 @@
     "net_shares": -22916368.0,
     "net_pct": -2.975785998994326
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
     "buys_3m": 1.0,
-    "sells_3m": 12.0,
-    "net_shares_3m": -38578.0,
-    "net_shares_12m": -25122.0
+    "sells_3m": 9.0,
+    "net_shares_3m": -36913.0,
+    "net_shares_12m": -23474.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Computer Software: Prepackaged Software",
-    "market_cap": 148617340000.0,
+    "market_cap": 153078000000.0,
     "target_1y": 287.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 2.41,
     "eps_rev_1m_pct": 0.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "SNOW": {
@@ -1567,7 +1567,7 @@
     "date": "2026-12-02",
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -1600,7 +1600,7 @@
      "surprise_pct": -44.83
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -1613,7 +1613,7 @@
     "net_shares": 22760853.0,
     "net_pct": 7.083372779021056
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
@@ -1622,28 +1622,28 @@
     "net_shares_3m": -1458192.0,
     "net_shares_12m": -6336075.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Computer Software: Prepackaged Software",
-    "market_cap": 89889912000.0,
-    "target_1y": 447.0
+    "market_cap": 97372800000.0,
+    "target_1y": 440.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": -0.32,
     "eps_rev_1m_pct": 0.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "ANET": {
@@ -1652,7 +1652,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -1685,7 +1685,7 @@
      "surprise_pct": 10.45
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -1693,42 +1693,42 @@
     "inst_shares": 1009726085.0,
     "inc_holders": 1355.0,
     "dec_holders": 1042.0,
-    "new_holders": 296.0,
+    "new_holders": 295.0,
     "soldout_holders": 131.0,
-    "net_shares": 14393173.0,
-    "net_pct": 1.4254532208108697
+    "net_shares": 14390521.0,
+    "net_pct": 1.4251905753232077
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
     "buys_3m": 3.0,
-    "sells_3m": 24.0,
-    "net_shares_3m": -2286234.0,
-    "net_shares_12m": -9359318.0
+    "sells_3m": 25.0,
+    "net_shares_3m": -3176234.0,
+    "net_shares_12m": -10201457.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Computer Communications Equipment",
-    "market_cap": 211809401463.0,
+    "market_cap": 229429189447.0,
     "target_1y": 249.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 1.19,
     "eps_rev_1m_pct": 13.33333333333333
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "DELL": {
@@ -1737,7 +1737,7 @@
     "date": "2026-11-24",
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -1770,7 +1770,7 @@
      "surprise_pct": 3.98
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -1780,40 +1780,40 @@
     "dec_holders": 1021.0,
     "new_holders": 383.0,
     "soldout_holders": 110.0,
-    "net_shares": -7616795.0,
-    "net_pct": -2.884163608703258
+    "net_shares": -7617486.0,
+    "net_pct": -2.8844252616758816
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
     "buys_3m": 6.0,
-    "sells_3m": 100.0,
-    "net_shares_3m": -2617921.0,
+    "sells_3m": 99.0,
+    "net_shares_3m": -2615899.0,
     "net_shares_12m": -15977076.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Computer Manufacturing",
-    "market_cap": 176743228245.0,
+    "market_cap": 213404191410.0,
     "target_1y": 572.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 6.55,
     "eps_rev_1m_pct": 2.1840873634945357
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "SMCI": {
@@ -1822,7 +1822,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -1855,7 +1855,7 @@
      "surprise_pct": 36.59
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -1868,7 +1868,7 @@
     "net_shares": -9446326.0,
     "net_pct": -1.8781999241337604
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
@@ -1877,7 +1877,7 @@
     "net_shares_3m": -621455.0,
     "net_shares_12m": -1492946.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -1886,28 +1886,28 @@
     "days_to_cover": 1.989018,
     "si_change_pct": -6.351617333543591
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Computer Manufacturing",
-    "market_cap": 14272272496.0,
+    "market_cap": 17073988805.0,
     "target_1y": 43.5
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Hold"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 1.66,
-    "eps_rev_1m_pct": 88.63636363636363
+    "eps_rev_1m_pct": 78.49462365591395
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "VRT": {
@@ -1916,7 +1916,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -1949,7 +1949,7 @@
      "surprise_pct": 5.43
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -1962,7 +1962,7 @@
     "net_shares": -1094856.0,
     "net_pct": -0.31058771594117773
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
@@ -1971,28 +1971,28 @@
     "net_shares_3m": -134159.0,
     "net_shares_12m": -544522.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Industrial Machinery/Components",
-    "market_cap": 64020145595.0,
+    "market_cap": 73931600832.0,
     "target_1y": 327.5
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 2.28,
     "eps_rev_1m_pct": 3.6363636363636154
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "CEG": {
@@ -2001,7 +2001,7 @@
     "date": null,
     "estimated": false
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "surprises": {
    "value": [
@@ -2034,7 +2034,7 @@
      "surprise_pct": 4.55
     }
    ],
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "institutional": {
    "value": {
@@ -2047,7 +2047,7 @@
     "net_shares": 5605398.0,
     "net_pct": 1.690746159357458
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "insider": {
    "value": {
@@ -2056,7 +2056,7 @@
     "net_shares_3m": 0.0,
     "net_shares_12m": -58908.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "short": {
    "value": {
@@ -2065,28 +2065,28 @@
     "days_to_cover": 3.338692,
     "si_change_pct": -11.791874636997047
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "summary": {
    "value": {
     "industry": "Electric Utilities: Central",
-    "market_cap": 83475374935.0,
+    "market_cap": 88886629811.0,
     "target_1y": 346.0
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "ratings": {
    "value": {
     "rating": "Buy"
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   },
   "momentum": {
    "value": {
     "eps_qtr_mean": 2.9,
-    "eps_rev_1m_pct": -9.37500000000001
+    "eps_rev_1m_pct": -3.0100334448160626
    },
-   "fetched": "2026-11-20"
+   "fetched": "2026-11-23"
   }
  },
  "_calendar": {
@@ -2205,8 +2205,8 @@
    },
    "ANF": {
     "time": "pre",
-    "eps_forecast": 3.14,
-    "n_ests": 4.0,
+    "eps_forecast": 3.15,
+    "n_ests": 5.0,
     "last_year_eps": 2.36,
     "fiscal_q": "Oct/2026"
    },
@@ -2227,7 +2227,7 @@
    "MMED": {
     "time": "pre",
     "eps_forecast": 0.1,
-    "n_ests": 3.0,
+    "n_ests": null,
     "last_year_eps": null,
     "fiscal_q": "Oct/2026"
    },
@@ -2281,18 +2281,11 @@
     "fiscal_q": "Sep/2026"
    },
    "CLSK": {
-    "time": "tbd",
+    "time": "after",
     "eps_forecast": -0.36,
     "n_ests": 3.0,
     "last_year_eps": -0.01,
     "fiscal_q": "Sep/2026"
-   },
-   "PD": {
-    "time": "tbd",
-    "eps_forecast": 0.19,
-    "n_ests": 2.0,
-    "last_year_eps": 0.15,
-    "fiscal_q": "Oct/2026"
    },
    "GDRX": {
     "time": "tbd",
@@ -2364,13 +2357,6 @@
     "last_year_eps": 0.5,
     "fiscal_q": "Sep/2026"
    },
-   "GASS": {
-    "time": "tbd",
-    "eps_forecast": null,
-    "n_ests": null,
-    "last_year_eps": 0.36,
-    "fiscal_q": "Sep/2026"
-   },
    "ZH": {
     "time": "pre",
     "eps_forecast": null,
@@ -2416,7 +2402,7 @@
    "JFIN": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 3.0,
+    "n_ests": null,
     "last_year_eps": 1.04,
     "fiscal_q": "Sep/2026"
    },
@@ -2534,13 +2520,6 @@
     "last_year_eps": 0.02,
     "fiscal_q": "Oct/2026"
    },
-   "AEO": {
-    "time": "tbd",
-    "eps_forecast": 0.5,
-    "n_ests": 7.0,
-    "last_year_eps": 0.53,
-    "fiscal_q": "Oct/2026"
-   },
    "NCNO": {
     "time": "after",
     "eps_forecast": 0.16,
@@ -2565,7 +2544,7 @@
    "VLGEA": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 8.0,
+    "n_ests": 3.0,
     "last_year_eps": 0.84,
     "fiscal_q": "Oct/2026"
    },
@@ -2579,7 +2558,7 @@
    "CTRN": {
     "time": "pre",
     "eps_forecast": null,
-    "n_ests": 8.0,
+    "n_ests": 3.0,
     "last_year_eps": -0.88,
     "fiscal_q": "Oct/2026"
    },
@@ -2593,14 +2572,14 @@
    "RGCO": {
     "time": "after",
     "eps_forecast": null,
-    "n_ests": 3.0,
+    "n_ests": 8.0,
     "last_year_eps": -0.02,
     "fiscal_q": "Sep/2026"
    },
    "HERE": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 8.0,
+    "n_ests": 3.0,
     "last_year_eps": -0.06,
     "fiscal_q": "Sep/2026"
    }
@@ -2648,13 +2627,6 @@
     "last_year_eps": 0.68,
     "fiscal_q": "Oct/2026"
    },
-   "GWRE": {
-    "time": "tbd",
-    "eps_forecast": 0.36,
-    "n_ests": 7.0,
-    "last_year_eps": 0.38,
-    "fiscal_q": "Oct/2026"
-   },
    "NTSK": {
     "time": "after",
     "eps_forecast": -0.21,
@@ -2676,19 +2648,19 @@
     "last_year_eps": 0.5,
     "fiscal_q": "Oct/2026"
    },
-   "VFS": {
-    "time": "pre",
-    "eps_forecast": -0.36,
-    "n_ests": 1.0,
-    "last_year_eps": -0.41,
-    "fiscal_q": "Sep/2026"
-   },
    "M": {
     "time": "pre",
     "eps_forecast": -0.16,
     "n_ests": 4.0,
     "last_year_eps": 0.09,
     "fiscal_q": "Oct/2026"
+   },
+   "VFS": {
+    "time": "pre",
+    "eps_forecast": -0.36,
+    "n_ests": 1.0,
+    "last_year_eps": -0.41,
+    "fiscal_q": "Sep/2026"
    },
    "THO": {
     "time": "tbd",
@@ -2699,9 +2671,16 @@
    },
    "SIG": {
     "time": "pre",
-    "eps_forecast": 0.87,
+    "eps_forecast": 0.84,
     "n_ests": 3.0,
     "last_year_eps": 0.63,
+    "fiscal_q": "Oct/2026"
+   },
+   "AEO": {
+    "time": "after",
+    "eps_forecast": 0.5,
+    "n_ests": 7.0,
+    "last_year_eps": 0.53,
     "fiscal_q": "Oct/2026"
    },
    "KEN": {
@@ -2718,13 +2697,6 @@
     "last_year_eps": 1.28,
     "fiscal_q": "Sep/2026"
    },
-   "AI": {
-    "time": "tbd",
-    "eps_forecast": -0.58,
-    "n_ests": 6.0,
-    "last_year_eps": -0.75,
-    "fiscal_q": "Oct/2026"
-   },
    "CBRL": {
     "time": "pre",
     "eps_forecast": 0.0,
@@ -2739,6 +2711,13 @@
     "last_year_eps": 0.03,
     "fiscal_q": "Oct/2026"
    },
+   "AI": {
+    "time": "tbd",
+    "eps_forecast": -0.58,
+    "n_ests": 6.0,
+    "last_year_eps": -0.75,
+    "fiscal_q": "Oct/2026"
+   },
    "PHR": {
     "time": "after",
     "eps_forecast": 0.13,
@@ -2749,7 +2728,7 @@
    "YB": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 6.0,
+    "n_ests": 2.0,
     "last_year_eps": 1.08,
     "fiscal_q": "Sep/2026"
    },
@@ -2774,13 +2753,6 @@
     "last_year_eps": 0.24,
     "fiscal_q": "Oct/2026"
    },
-   "CURV": {
-    "time": "tbd",
-    "eps_forecast": 0.01,
-    "n_ests": 4.0,
-    "last_year_eps": -0.06,
-    "fiscal_q": "Oct/2026"
-   },
    "SY": {
     "time": "pre",
     "eps_forecast": null,
@@ -2798,14 +2770,14 @@
    "HNNA": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 6.0,
+    "n_ests": 2.0,
     "last_year_eps": 0.31,
     "fiscal_q": "Sep/2026"
    },
    "PTIV": {
     "time": "tbd",
     "eps_forecast": null,
-    "n_ests": 6.0,
+    "n_ests": 2.0,
     "last_year_eps": null,
     "fiscal_q": "Aug/2026"
    },
@@ -3264,6 +3236,162 @@
     "n_ests": 2.0,
     "last_year_eps": -0.8,
     "fiscal_q": "Sep/2026"
+   }
+  },
+  "2026-12-17": {
+   "MU": {
+    "time": "after",
+    "eps_forecast": 37.95,
+    "n_ests": 8.0,
+    "last_year_eps": 4.61,
+    "fiscal_q": "Nov/2026"
+   },
+   "ACN": {
+    "time": "pre",
+    "eps_forecast": 3.91,
+    "n_ests": 7.0,
+    "last_year_eps": 3.94,
+    "fiscal_q": "Nov/2026"
+   },
+   "CTAS": {
+    "time": "tbd",
+    "eps_forecast": 1.36,
+    "n_ests": 9.0,
+    "last_year_eps": 1.21,
+    "fiscal_q": "Nov/2026"
+   },
+   "NKE": {
+    "time": "after",
+    "eps_forecast": 0.34,
+    "n_ests": 12.0,
+    "last_year_eps": 0.53,
+    "fiscal_q": "Nov/2026"
+   },
+   "HEI": {
+    "time": "tbd",
+    "eps_forecast": 1.62,
+    "n_ests": 6.0,
+    "last_year_eps": 1.33,
+    "fiscal_q": "Oct/2026"
+   },
+   "HEI.A": {
+    "time": "tbd",
+    "eps_forecast": null,
+    "n_ests": null,
+    "last_year_eps": 1.33,
+    "fiscal_q": "Oct/2026"
+   },
+   "GIS": {
+    "time": "pre",
+    "eps_forecast": 0.96,
+    "n_ests": 7.0,
+    "last_year_eps": 1.1,
+    "fiscal_q": "Nov/2026"
+   },
+   "KEP": {
+    "time": "tbd",
+    "eps_forecast": 1.17,
+    "n_ests": 1.0,
+    "last_year_eps": 2.11,
+    "fiscal_q": "Sep/2026"
+   },
+   "FDS": {
+    "time": "tbd",
+    "eps_forecast": 5.03,
+    "n_ests": 6.0,
+    "last_year_eps": 4.51,
+    "fiscal_q": "Nov/2026"
+   },
+   "KMX": {
+    "time": "pre",
+    "eps_forecast": 0.43,
+    "n_ests": 9.0,
+    "last_year_eps": 0.51,
+    "fiscal_q": "Nov/2026"
+   },
+   "BB": {
+    "time": "pre",
+    "eps_forecast": 0.04,
+    "n_ests": 2.0,
+    "last_year_eps": 0.04,
+    "fiscal_q": "Nov/2026"
+   },
+   "KBH": {
+    "time": "tbd",
+    "eps_forecast": 1.21,
+    "n_ests": 7.0,
+    "last_year_eps": 1.92,
+    "fiscal_q": "Nov/2026"
+   },
+   "AVO": {
+    "time": "tbd",
+    "eps_forecast": 0.33,
+    "n_ests": 2.0,
+    "last_year_eps": 0.27,
+    "fiscal_q": "Oct/2026"
+   },
+   "SCHL": {
+    "time": "tbd",
+    "eps_forecast": 3.52,
+    "n_ests": 2.0,
+    "last_year_eps": 2.57,
+    "fiscal_q": "Nov/2026"
+   },
+   "FCEL": {
+    "time": "tbd",
+    "eps_forecast": -0.31,
+    "n_ests": 1.0,
+    "last_year_eps": -0.83,
+    "fiscal_q": "Oct/2026"
+   },
+   "IA": {
+    "time": "tbd",
+    "eps_forecast": 0.27,
+    "n_ests": 1.0,
+    "last_year_eps": 0.34,
+    "fiscal_q": "Sep/2026"
+   },
+   "UXIN": {
+    "time": "tbd",
+    "eps_forecast": null,
+    "n_ests": null,
+    "last_year_eps": -0.03,
+    "fiscal_q": "Sep/2026"
+   },
+   "OCC": {
+    "time": "tbd",
+    "eps_forecast": 0.22,
+    "n_ests": 1.0,
+    "last_year_eps": 0.01,
+    "fiscal_q": "Oct/2026"
+   },
+   "LFS": {
+    "time": "tbd",
+    "eps_forecast": null,
+    "n_ests": 1.0,
+    "last_year_eps": 0.05,
+    "fiscal_q": "Sep/2026"
+   },
+   "SDA": {
+    "time": "tbd",
+    "eps_forecast": null,
+    "n_ests": null,
+    "last_year_eps": null,
+    "fiscal_q": "Sep/2026"
+   },
+   "BLIN": {
+    "time": "tbd",
+    "eps_forecast": null,
+    "n_ests": null,
+    "last_year_eps": -0.03,
+    "fiscal_q": "Sep/2026"
+   },
+   "PMCB": {
+    "time": "tbd",
+    "eps_forecast": null,
+    "n_ests": 1.0,
+    "last_year_eps": -6.08,
+    "fiscal_q": "Oct/2026"
    }
   }
  }

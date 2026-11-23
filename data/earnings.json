@@ -2,7 +2,7 @@
  {
   "symbol": "DELL",
   "next_date": "2026-11-24",
-  "days": 4,
+  "days": 1,
   "estimated": false,
   "time": "after",
   "eps_forecast": 6.55,
@@ -53,7 +53,7 @@
  {
   "symbol": "MRVL",
   "next_date": "2026-12-01",
-  "days": 11,
+  "days": 8,
   "estimated": false,
   "time": "after",
   "eps_forecast": 0.79,
@@ -104,7 +104,7 @@
  {
   "symbol": "CRM",
   "next_date": "2026-12-02",
-  "days": 12,
+  "days": 9,
   "estimated": false,
   "time": "after",
   "eps_forecast": 2.41,
@@ -155,7 +155,7 @@
  {
   "symbol": "SNOW",
   "next_date": "2026-12-02",
-  "days": 12,
+  "days": 9,
   "estimated": false,
   "time": "after",
   "eps_forecast": -0.32,
@@ -206,7 +206,7 @@
  {
   "symbol": "AVGO",
   "next_date": "2026-12-09",
-  "days": 19,
+  "days": 16,
   "estimated": false,
   "time": "after",
   "eps_forecast": 3.45,
@@ -257,7 +257,7 @@
  {
   "symbol": "ORCL",
   "next_date": "2026-12-14",
-  "days": 24,
+  "days": 21,
   "estimated": false,
   "time": "after",
   "eps_forecast": 1.56,
@@ -307,10 +307,10 @@
  },
  {
   "symbol": "MU",
-  "next_date": "2026-12-16",
-  "days": 26,
-  "estimated": true,
-  "time": "tbd",
+  "next_date": "2026-12-17",
+  "days": 24,
+  "estimated": false,
+  "time": "after",
   "eps_forecast": 37.95,
   "n_ests": 8.0,
   "last_year_eps": 4.61,
@@ -505,7 +505,7 @@
    }
   ],
   "recent": null,
-  "eps_rev_1m_pct": -3.515624999999989,
+  "eps_rev_1m_pct": -3.137254901960773,
   "eps_qtr_mean": 2.47
  },
  {
@@ -710,7 +710,7 @@
    "surprise_pct": 29.74,
    "reaction": 7.125425085017012
   },
-  "eps_rev_1m_pct": -9.37500000000001,
+  "eps_rev_1m_pct": -3.0100334448160626,
   "eps_qtr_mean": 2.9
  },
  {
@@ -802,7 +802,7 @@
    }
   ],
   "recent": null,
-  "eps_rev_1m_pct": -0.24449877750610804,
+  "eps_rev_1m_pct": 0.6165228113440335,
   "eps_qtr_mean": 8.16
  },
  {
@@ -947,8 +947,8 @@
    "surprise_pct": 8.5,
    "reaction": -3.3175355450236865
   },
-  "eps_rev_1m_pct": 3.649635036496335,
-  "eps_qtr_mean": 2.84
+  "eps_rev_1m_pct": 4.744525547445244,
+  "eps_qtr_mean": 2.87
  },
  {
   "symbol": "PLTR",
@@ -1053,7 +1053,7 @@
    "surprise_pct": 63.46,
    "reaction": -2.759526938239154
   },
-  "eps_rev_1m_pct": 88.63636363636363,
+  "eps_rev_1m_pct": 78.49462365591395,
   "eps_qtr_mean": 1.66
  },
  {
