@@ -2,7 +2,7 @@
  {
   "symbol": "MRVL",
   "next_date": "2026-12-01",
-  "days": 6,
+  "days": 5,
   "estimated": false,
   "time": "after",
   "eps_forecast": 0.79,
@@ -53,7 +53,7 @@
  {
   "symbol": "CRM",
   "next_date": "2026-12-02",
-  "days": 7,
+  "days": 6,
   "estimated": false,
   "time": "after",
   "eps_forecast": 2.41,
@@ -104,7 +104,7 @@
  {
   "symbol": "SNOW",
   "next_date": "2026-12-02",
-  "days": 7,
+  "days": 6,
   "estimated": false,
   "time": "after",
   "eps_forecast": -0.32,
@@ -155,7 +155,7 @@
  {
   "symbol": "AVGO",
   "next_date": "2026-12-09",
-  "days": 14,
+  "days": 13,
   "estimated": false,
   "time": "after",
   "eps_forecast": 3.45,
@@ -206,7 +206,7 @@
  {
   "symbol": "ORCL",
   "next_date": "2026-12-14",
-  "days": 19,
+  "days": 18,
   "estimated": false,
   "time": "after",
   "eps_forecast": 1.56,
@@ -257,7 +257,7 @@
  {
   "symbol": "MU",
   "next_date": "2026-12-17",
-  "days": 22,
+  "days": 21,
   "estimated": false,
   "time": "after",
   "eps_forecast": 37.95,
@@ -440,7 +440,7 @@
    }
   ],
   "recent": null,
-  "eps_rev_1m_pct": -3.515624999999989,
+  "eps_rev_1m_pct": -3.137254901960773,
   "eps_qtr_mean": 2.47
  },
  {
@@ -531,14 +531,7 @@
     "reaction": 6.054519368723099
    }
   ],
-  "recent": {
-   "quarter": "Sep 2026",
-   "date": "2026-11-04",
-   "eps": 0.15,
-   "consensus": 0.22,
-   "surprise_pct": -31.82,
-   "reaction": -17.66506987999408
-  },
+  "recent": null,
   "eps_rev_1m_pct": -3.3333333333333326,
   "eps_qtr_mean": 0.29
  },
@@ -646,7 +639,7 @@
   "next_date": null,
   "days": null,
   "estimated": false,
-  "avg_move": 21.905708066691023,
+  "avg_move": 19.254666974595022,
   "beats": 4,
   "n_hist": 4,
   "history": [
@@ -656,7 +649,7 @@
     "eps": 9.16,
     "consensus": 6.55,
     "surprise_pct": 39.85,
-    "reaction": null
+    "reaction": -11.301543698307015
    },
    {
     "quarter": "Jul 2026",
@@ -689,7 +682,7 @@
    "eps": 9.16,
    "consensus": 6.55,
    "surprise_pct": 39.85,
-   "reaction": null
+   "reaction": -11.301543698307015
   },
   "eps_rev_1m_pct": 0.8174386920980936,
   "eps_qtr_mean": 7.4
