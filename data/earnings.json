@@ -684,8 +684,8 @@
    "surprise_pct": 39.85,
    "reaction": -11.301543698307015
   },
-  "eps_rev_1m_pct": 0.8174386920980936,
-  "eps_qtr_mean": 7.4
+  "eps_rev_1m_pct": 2.452316076294281,
+  "eps_qtr_mean": 7.52
  },
  {
   "symbol": "GOOGL",
@@ -776,8 +776,8 @@
    }
   ],
   "recent": null,
-  "eps_rev_1m_pct": 0.36900369003689537,
-  "eps_qtr_mean": 8.16
+  "eps_rev_1m_pct": -0.2450980392156854,
+  "eps_qtr_mean": 8.14
  },
  {
   "symbol": "MSFT",
@@ -967,7 +967,7 @@
    }
   ],
   "recent": null,
-  "eps_rev_1m_pct": 7.8947368421052655,
+  "eps_rev_1m_pct": 10.81081081081081,
   "eps_qtr_mean": 0.41
  },
  {
