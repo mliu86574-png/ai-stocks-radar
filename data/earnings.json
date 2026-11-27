@@ -306,6 +306,57 @@
   "eps_qtr_mean": 37.95
  },
  {
+  "symbol": "TSM",
+  "next_date": "2027-01-21",
+  "days": 55,
+  "estimated": true,
+  "time": "tbd",
+  "eps_forecast": 5.17,
+  "n_ests": 6.0,
+  "last_year_eps": 3.14,
+  "fiscal_q": "Dec/2026",
+  "avg_move": 3.744303844179359,
+  "beats": 4,
+  "n_hist": 4,
+  "history": [
+   {
+    "quarter": "Sep 2026",
+    "date": "2026-10-15",
+    "eps": 4.6,
+    "consensus": 4.45,
+    "surprise_pct": 3.37,
+    "reaction": -4.044186046511622
+   },
+   {
+    "quarter": "Jun 2026",
+    "date": "2026-07-16",
+    "eps": 4.31,
+    "consensus": 3.87,
+    "surprise_pct": 11.37,
+    "reaction": -5.032421092781547
+   },
+   {
+    "quarter": "Mar 2026",
+    "date": "2026-04-16",
+    "eps": 3.49,
+    "consensus": 3.31,
+    "surprise_pct": 5.44,
+    "reaction": -1.226339642761931
+   },
+   {
+    "quarter": "Dec 2025",
+    "date": "2026-01-15",
+    "eps": 3.14,
+    "consensus": 2.82,
+    "surprise_pct": 11.35,
+    "reaction": 4.674268594662334
+   }
+  ],
+  "recent": null,
+  "eps_rev_1m_pct": -0.9578544061302652,
+  "eps_qtr_mean": 5.17
+ },
+ {
   "symbol": "AAPL",
   "next_date": null,
   "days": null,
@@ -1015,52 +1066,6 @@
   "recent": null,
   "eps_rev_1m_pct": 78.49462365591395,
   "eps_qtr_mean": 1.66
- },
- {
-  "symbol": "TSM",
-  "next_date": null,
-  "days": null,
-  "estimated": false,
-  "avg_move": 3.744303844179359,
-  "beats": 4,
-  "n_hist": 4,
-  "history": [
-   {
-    "quarter": "Sep 2026",
-    "date": "2026-10-15",
-    "eps": 4.6,
-    "consensus": 4.45,
-    "surprise_pct": 3.37,
-    "reaction": -4.044186046511622
-   },
-   {
-    "quarter": "Jun 2026",
-    "date": "2026-07-16",
-    "eps": 4.31,
-    "consensus": 3.87,
-    "surprise_pct": 11.37,
-    "reaction": -5.032421092781547
-   },
-   {
-    "quarter": "Mar 2026",
-    "date": "2026-04-16",
-    "eps": 3.49,
-    "consensus": 3.31,
-    "surprise_pct": 5.44,
-    "reaction": -1.226339642761931
-   },
-   {
-    "quarter": "Dec 2025",
-    "date": "2026-01-15",
-    "eps": 3.14,
-    "consensus": 2.82,
-    "surprise_pct": 11.35,
-    "reaction": 4.674268594662334
-   }
-  ],
-  "recent": null,
-  "eps_rev_1m_pct": -0.9578544061302652,
-  "eps_qtr_mean": 5.17
  },
  {
   "symbol": "VRT",

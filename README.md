@@ -21,10 +21,11 @@ AI basket (equal weight): **-1.0%** on the day, **+20.8%** YTD vs QQQ +3.2%.
 | 2026-12-09 | AVGO | after close | 3.45 | ±8.8% |
 | 2026-12-14 | ORCL | after close | 1.56 | ±8.9% |
 | 2026-12-17 | MU | after close | 37.95 | ±7.3% |
+| 2027-01-21 | TSM | TBC | 5.17 | ±3.7% |
 
 **Volume-based flow signals:** inflow none; outflow NVDA, AMD, AVGO, TSM, ASML, MU, ARM, MRVL, MSFT, GOOGL, AMZN, AAPL, ORCL, NOW, CRM, SNOW, DELL, SMCI, VRT.
 
-_Last updated 2026-11-27 03:56 UTC._
+_Last updated 2026-11-27 21:46 UTC._
 <!-- RADAR:END -->
 
 ## What it covers
